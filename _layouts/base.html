@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <!-- UTF-8 is reasonably nice, let's use that for our homepage -->
+        <meta charset="UTF-8">
+        <title>
+            {{ page.title }} - Pontus Stenetorp's GitHub-based Homepage
+        </title>
+        <!-- Our standard style -->
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+
+        <!-- Google Web Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=VT323'
+            rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Cabin+Sketch:700'
+            rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Astloch:700'
+            rel='stylesheet' type='text/css'>
+        <!-- Our standard font, likely to change -->
+        <link href='http://fonts.googleapis.com/css?family=Istok+Web'
+            rel='stylesheet' type='text/css'>
+
+        <!-- Most browsers won't need this but still, here -->
+        <link rel="shortcut icon" href="favicon.ico"/>
+        <!-- Google Analytics -->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-25185150-1']);
+            _gaq.<div id="header">push(['_trackPageview']);
+            (function() {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol
+                    ? 'https://ssl' : 'http://www')
+                    + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body>
+        <div id="body">
+            <div id="hdr">
+                <!-- Left empty for now -->
+            </div>
+
+            <div id="middle_left">
+                <div id="middle_right">
+                    <div id="middle">
+                        <div id="content_wrap">
+                            <div id="content">
+                                {{ content }}
+                            </div>
+                        </div>
+
+                        <div id="left">
+                            <div id="menu">
+                                <ul id="menu">
+                                    <li>
+                                        <a href="/">
+                                            Home
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/publications.html">
+                                            Publications
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                        <a href="/copyright.html">
+                                            Copyright
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div id="right">
+                            <!-- Left empty for now -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="ftr">
+                <a href="/copyright.html">&copy;2011 Pontus Stenetorp</a>
+                <a rel="license"
+                    href="http://creativecommons.org/licenses/by/3.0/">
+                    <img alt="Creative Commons License" style="border-width:0"
+                    src="http://i.creativecommons.org/l/by/3.0/80x15.png" />
+                </a>
+            </div>
+        </div>
+
+        <!-- It's a trap! Well, for hostile e-mail crawlers that is... -->
+        <a href="http://bob.llamaslayers.net/contact.php?view=862"></a>
+    </body>
+</html>
