@@ -1,0 +1,8 @@
+# This robots.txt is slightly advanced, but, oh well if you find that parsing
+# and obeying a robots.txt is the most complicated part of creating a crawler,
+# maybe you shouldn't make a crawler.
+
+User-agent: *
+Allow:          /
+# GitHub can damn well take a hit per second
+Crawl-delay:    1
