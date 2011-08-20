@@ -16,7 +16,7 @@ publications][publications].
 
 I was raised in [a land of snow and beautiful summers][sweden] in a [small
 town that most people have never heard of][lindesberg] (and for good reasons),
-attended [Kungliga Tekniska Högskolan][kth] (The Royal Institute of
+attended [Kungliga Tekniska högskolan][kth] (The Royal Institute of
 Technology) in Stockholm and received the degree of Master in Science and
 Engineering in Computer Science.
 
@@ -24,10 +24,6 @@ During what spare time I have left I enjoy tinkering with computers, producing
 code for fun, [hacking on an operating system][freebsd], biking, traveling and
 photography. My [Erdős number][erdos] is 5 (Me -> J. J. Li -> T. Kowalski ->
 P. Jipsen -> Z. Tuza -> P. Erdős).
-
-If you wish to contact me, please do so my sending an email to: pontus
-stenetorp se, insert an @ in the first space and a dot in the second. Sorry
-about the trouble, spam prevention.
 
 [aizawa]:       http://www-al.nii.ac.jp/en/index.html
 [erdos]:        http://en.wikipedia.org/wiki/Erd%C5%91s_number
