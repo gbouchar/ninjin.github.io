@@ -1,0 +1,13 @@
+@incollection {stenetorp2010evaluating,
+    author      = {Stenetorp, Pontus and Li, Jason},
+    booktitle   = {New Frontiers in Artificial Intelligence},
+    editor      = {Nakakoji, Kumiyo and Murakami, Yohei and McCready, Eric},
+    isbn        = {978-3-642-14887-3},
+    note        = {10.1007/978-3-642-14888-0_6},
+    pages       = {59--72},
+    publisher   = {Springer Berlin / Heidelberg},
+    series      = {Lecture Notes in Computer Science},
+    title       = {Evaluating Cases in Legal Disputes as Rival Theories},
+    volume      = {6284},
+    year        = {2010}
+}

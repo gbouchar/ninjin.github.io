@@ -1,0 +1,11 @@
+@inproceedings{li2009evaluating,
+    address     = {Tokyo, Japan}
+    author      = {Li, Jason and Stenetorp, Pontus},
+    booktitle   = {Proceedings of the Third International Workshop on Juris-informatics ({JURISIN 2009})},
+    isbn        = {4-915905-38-1},
+    month       = {November},
+    pages       = {61--72},
+    publisher   = {Japanese Society for Artificial Intelligence},
+    title       = {Evaluating cases in legal disputes as rival theories},
+    year        = {2009},
+}

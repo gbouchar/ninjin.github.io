@@ -22,9 +22,17 @@ and found on this website, unless explicitly stated otherwise, is available
 under the <a href="http://www.opensource.org/licenses/ISC">Internet Systems
 Consortium (ISC) License</a>.
 
+## BibTeX Icon ##
+
+The small BiBTeX icon (![BibTeX_Icon](/bibtex_icon_small.png)) is generated
+from a modified version of the [Wikipedia BibTeX logo Scaleable Vector
+Graphics (SVG) image](http://commons.wikimedia.org/wiki/File:BibTeX_logo.svg)
+which is in the public domain. Consider my icon version (SVG and PNG) to have
+the same licensing restrictions.
+
 ## Portable Document Format (PDF) Icon ##
 
-The small PDF icon (![pdf_icon](/pdficon_small.gif)) used to indicate PDF
+The small PDF icon (![PDF Icon](/pdficon_small.gif)) used to indicate PDF
 document links is used under the restrictions found on
 [this page](http://www.adobe.com/misc/linking.html). If you know of a
 reasonably looking free (as in freedom) version, please contact me.
