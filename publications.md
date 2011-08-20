@@ -23,7 +23,7 @@ My hopefully growing list of publications:
     theories**. *In Kumiyo Nakakoji, Yohei Murakami, and Eric McCready,
     editors, New Frontiers in Artificial Intelligence, volume 6284 of Lecture
     Notes in Computer Science*, pages 59–72. Springer Berlin / Heidelberg.
-    10.1007/978-3-642-14888-0 6. [[![PDF][pdf_icon]]][stenetorp2010evaluating]
+    10.1007/978-3-642-14888-0 6. [![PDF][pdf_icon]][stenetorp2010evaluating]
 
 * Jason Li and Pontus Stenetorp. **Evaluating cases in legal disputes as rival
     theories**. *In Proceedings of the Third International Workshop on
