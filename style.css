@@ -37,6 +37,20 @@ body {
     width:          100%;
 }
 
+/* Re-style links globally */
+a:link    {
+    text-decoration:  none;
+} 
+a:visited {
+    text-decoration:  none;
+} 
+a:hover   {
+    text-decoration:  underline;
+} 
+a:active  {
+    text-decoration:  underline;
+} 
+
 #hdr {
     background-color:   #67E667;
     border-bottom:      3px solid #008500;
@@ -110,6 +124,11 @@ body {
 #menu {
     font-size: 90%;
 }
+
+#elsewhere {
+    font-size: 90%;
+}
+
 
 #ftr {
     background-color:   #67E667;
