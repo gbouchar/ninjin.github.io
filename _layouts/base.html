@@ -23,22 +23,7 @@
 
         <!-- Most browsers won't need this but still, here -->
         <link rel="shortcut icon" href="favicon.ico"/>
-        <!-- Google Analytics -->
-        <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-25185150-1']);
-            _gaq.<div id="header">push(['_trackPageview']);
-            (function() {
-                var ga = document.createElement('script');
-                ga.type = 'text/javascript';
-                ga.async = true;
-                ga.src = ('https:' == document.location.protocol
-                    ? 'https://ssl' : 'http://www')
-                    + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0];
-                    s.parentNode.insertBefore(ga, s);
-            })();
-        </script>
+        {% include google_analytics.html %}
     </head>
     <body>
         <div id="body">
@@ -57,25 +42,7 @@
 
                         <div id="left">
                             <div id="menu">
-                                Navigation:
-                                <ul id="menu">
-                                    <li>
-                                        <a href="/">
-                                            Home
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="/publications.html">
-                                            Publications
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="/copyright.html">
-                                            Copyright
-                                        </a>
-                                    </li>
-                                </ul>
+                                {% include menu.html %}
                             </div>
                         </div>
 
@@ -87,12 +54,7 @@
             </div>
 
             <div id="ftr">
-                <a href="/copyright.html">&copy;2011 Pontus Stenetorp</a>
-                <a rel="license"
-                    href="http://creativecommons.org/licenses/by/3.0/">
-                    <img alt="Creative Commons License" style="border-width:0"
-                    src="http://i.creativecommons.org/l/by/3.0/80x15.png" />
-                </a>
+                {% include ftr.html %}
             </div>
         </div>
 
