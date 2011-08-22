@@ -20,7 +20,7 @@ attended [Kungliga Tekniska högskolan][kth] (The Royal Institute of
 Technology) in Stockholm and received the degree of Master in Science and
 Engineering in Computer Science.
 
-During what spare time I have left I enjoy tinkering with computers, producing
+During what spare time I have left, I enjoy tinkering with computers, producing
 code for fun, [hacking on an operating system][freebsd], biking, traveling and
 photography. My [Erdős number][erdos] is 5 (Me -> J. J. Li -> T. Kowalski ->
 P. Jipsen -> Z. Tuza -> P. Erdős).

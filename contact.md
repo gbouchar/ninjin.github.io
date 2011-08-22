@@ -10,11 +10,14 @@ significant action on my part or I am exceedingly busy I will reply swiftly:
 
     pontus stenetorp se
 
-Contrary to popular opinion about other people in academia I do not mind
-**you**, yes **you**, fellow student, researcher or human, dropping me a few
-lines asking for verification. Heck, even criticism **is** welcome. If I can
-in any way clarify or if you feel that you can correct (and thus help) me in
-any way, taking the time to write me an e-mail is very much appreciated.
+Contrary to a popular misconception about people in academia, most (and myself
+in particular) do not mind **you**, yes **you**, fellow student, researcher
+and/or human, dropping a few lines asking for verification. Heck, even
+criticism **is** usually welcome.
+
+If I can in any way clarify or if you feel that you can correct (and thus
+help) me in any way, taking the time to write me an e-mail is very much
+appreciated.
 
 ## University of Tokyo (UT) ##
 
