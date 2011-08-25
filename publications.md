@@ -40,6 +40,13 @@ My hopefully growing list of publications:
     Society for Artificial Intelligence. [![PDF][pdf_icon]][li2009evaluating]
     [![BibTeX][bibtex_icon]][li2009evaluating_bib]
 
+* Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, Pontus Stenetorp, Jun’ichi Tsujii
+    and Hae-Chang Rim. **A Novel Word Segmentation Approach for Written
+    Languages with Word Boundary Markers**. *In Proceedings of the ACL-IJCNLP
+    2009 Conference Short Papers*, pages 29–32, Suntec, Singapore, August
+    2009. Association for Computational Linguistics. [![PDF][pdf_icon]
+    ][cho2009novel] [![BibTeX][bibtex_icon]][cho2009novel_bib]
+
 <!-- Publication and BibTeX links -->
 [stenetorp2011simsem]: http://aclweb.org/anthology-new/W/W11/W11-0218.pdf
 [stenetorp2011simsem_bib]: http://aclweb.org/anthology-new/W/W11/W11-0218.bib
@@ -49,6 +56,8 @@ My hopefully growing list of publications:
 [stenetorp2010evaluating_bib]: stenetorp2010evaluating.bib.txt
 [li2009evaluating]: http://www-tsujii.is.s.u-tokyo.ac.jp/~pontus/papers/jurisin09.pdf
 [li2009evaluating_bib]: li2009evaluating.bib.txt
+[cho2009novel]: http://www.aclweb.org/anthology/P/P09/P09-2008.pdf
+[cho2009novel_bib]: http://www.aclweb.org/anthology/P/P09/P09-2008.bib
 
 [bibtex_icon]: /bibtex_icon_small.png
 <!-- From: http://www.adobe.com/misc/linking.html, the legal part makes
