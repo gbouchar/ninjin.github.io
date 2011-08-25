@@ -7,6 +7,8 @@ title: "Publications"
 
 My hopefully growing list of publications:
 
+## 2011 ##
+
 * Pontus Stenetorp, Sampo Pyysalo, and Jun’ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
@@ -21,6 +23,8 @@ My hopefully growing list of publications:
     Computational Linguistics. [![PDF][pdf_icon]][stenetorp2011supporting]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
+## 2010 ##
+
 * Pontus Stenetorp and Jason Li. **Evaluating cases in legal disputes as rival
     theories**. *In Kumiyo Nakakoji, Yohei Murakami, and Eric McCready,
     editors, New Frontiers in Artificial Intelligence, volume 6284 of Lecture
@@ -28,12 +32,15 @@ My hopefully growing list of publications:
     10.1007/978-3-642-14888-0 6. [![PDF][pdf_icon]][stenetorp2010evaluating]
     [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
 
+## 2009 ##
+
 * Jason Li and Pontus Stenetorp. **Evaluating cases in legal disputes as rival
     theories**. *In Proceedings of the Third International Workshop on
     Juris-informatics*, pages 61–72, Tokyo, Japan, November 2009. Japanese
     Society for Artificial Intelligence. [![PDF][pdf_icon]][li2009evaluating]
     [![BibTeX][bibtex_icon]][li2009evaluating_bib]
 
+<!-- Publication and BibTeX links -->
 [stenetorp2011simsem]: http://aclweb.org/anthology-new/W/W11/W11-0218.pdf
 [stenetorp2011simsem_bib]: http://aclweb.org/anthology-new/W/W11/W11-0218.bib
 [stenetorp2011supporting]: http://aclweb.org/anthology-new/W/W11/W11-1816.pdf
