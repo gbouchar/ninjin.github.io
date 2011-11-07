@@ -9,6 +9,20 @@ My hopefully growing list of publications:
 
 ## 2011 ##
 
+* Pontus Stenetorp, Sampo Pyysalo, Sophia Ananiadou and Jun’ichi Tsujii.
+    **Almost Total Recall: Semantic Category Disambiguation Using Large Lexical
+    Resources and Approximate String Matching**.
+    *In Proceedings of the Fourth International Symposium on Languages in
+    Biology and Medicine (to appear)*, Sigapore, Singapore, December 2011.
+
+* Pontus Stenetorp, Sampo Pyysalo, Sophia Ananiadou and Jun’ichi Tsujii.
+    **Investigating Approaches to Semantic Category Disambiguation Using Large
+    Lexical Resources and Approximate String Matching**.
+    *Information Processing Society of Japan Special Interest Groups Notes (to appear)*,
+    Ishigaki, Japan, November 2011. Information Processing Society of Japan.
+    [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
+
+
 * Pontus Stenetorp, Sampo Pyysalo, and Jun’ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
@@ -49,6 +63,7 @@ My hopefully growing list of publications:
     [![BibTeX][bibtex_icon]][cho2009novel_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2011investigating_bib]: stenetorp2011investigating.bib.txt
 [stenetorp2011simsem]: http://aclweb.org/anthology-new/W/W11/W11-0218.pdf
 [stenetorp2011simsem_bib]: http://aclweb.org/anthology-new/W/W11/W11-0218.bib
 [stenetorp2011supporting]: http://aclweb.org/anthology-new/W/W11/W11-1816.pdf
