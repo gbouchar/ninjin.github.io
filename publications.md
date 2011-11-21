@@ -79,6 +79,5 @@ My hopefully growing list of publications:
 [cho2009novel_bib]: http://www.aclweb.org/anthology/P/P09/P09-2008.bib
 
 [bibtex_icon]: /bibtex_icon_small.png
-<!-- From: http://www.adobe.com/misc/linking.html, the legal part makes
-    me sick, legalese... *barf* -->
-[pdf_icon]: /pdficon_small.gif
+[pdf_icon]: document-pdf.png
+[slides_icon]: projection-screen-presentation.png
