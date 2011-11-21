@@ -40,20 +40,21 @@ My hopefully growing list of publications:
 
 ## 2010 ##
 
-* *Pontus Stenetorp* and Jason Li. **Evaluating cases in legal disputes as
-    rival theories**. *In Kumiyo Nakakoji, Yohei Murakami, and Eric McCready,
-    editors, New Frontiers in Artificial Intelligence, volume 6284 of Lecture
-    Notes in Computer Science*, pages 59–72. Springer Berlin / Heidelberg.
-    10.1007/978-3-642-14888-0 6. [![PDF][pdf_icon]][stenetorp2010evaluating]
-    [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
+* *Pontus Stenetorp* and Jason Jingshi Li. **Evaluating cases in legal
+    disputes as rival theories**. *In Kumiyo Nakakoji, Yohei Murakami,
+    and Eric McCready, editors, New Frontiers in Artificial Intelligence,
+    volume 6284 of Lecture Notes in Computer Science*, pages 59–72. Springer
+    Berlin / Heidelberg. 10.1007/978-3-642-14888-0 6. [![PDF][pdf_icon]][
+    stenetorp2010evaluating] [![BibTeX][bibtex_icon]][
+    stenetorp2010evaluating_bib]
 
 ## 2009 ##
 
-* Jason Li and *Pontus Stenetorp*. **Evaluating cases in legal disputes as
-    rival theories**. *In Proceedings of the Third International Workshop on
-    Juris-informatics*, pages 61–72, Tokyo, Japan, November 2009. Japanese
-    Society for Artificial Intelligence. [![PDF][pdf_icon]][li2009evaluating]
-    [![BibTeX][bibtex_icon]][li2009evaluating_bib]
+* Jason Jingshi Li and *Pontus Stenetorp*. **Evaluating cases in legal
+    disputes as rival theories**. *In Proceedings of the Third International
+    Workshop on Juris-informatics*, pages 61–72, Tokyo, Japan, November 2009.
+    Japanese Society for Artificial Intelligence. [![PDF][pdf_icon]][
+    li2009evaluating] [![BibTeX][bibtex_icon]][li2009evaluating_bib]
 
 * Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, *Pontus Stenetorp*, Jun’ichi Tsujii
     and Hae-Chang Rim. **A Novel Word Segmentation Approach for Written

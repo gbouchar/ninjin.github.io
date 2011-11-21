@@ -1,5 +1,5 @@
 @incollection {stenetorp2010evaluating,
-    author      = {Stenetorp, Pontus and Li, Jason},
+    author      = {Stenetorp, Pontus and Li, Jason Jingshi},
     booktitle   = {New Frontiers in Artificial Intelligence},
     editor      = {Nakakoji, Kumiyo and Murakami, Yohei and McCready, Eric},
     isbn        = {978-3-642-14887-3},
