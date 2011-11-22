@@ -21,7 +21,8 @@ My hopefully growing list of publications:
     *Information Processing Society of Japan Special Interest Groups Notes*,
     Ishigaki, Japan, November 2011. Information Processing Society of Japan.
     [![PDF][pdf_icon]][stenetorp2011investigating] [![BibTeX][bibtex_icon]][
-    stenetorp2011investigating_bib]
+    stenetorp2011investigating_bib] [![Slides][slides_icon]][
+    stenetorp2011investigating_slides]
 
 
 * *Pontus Stenetorp*, Sampo Pyysalo, and Jun’ichi Tsujii. **SimSem: Fast
@@ -67,6 +68,7 @@ My hopefully growing list of publications:
 <!-- Publication and BibTeX links -->
 [stenetorp2011investigating]: stenetorp2011investigating.pdf
 [stenetorp2011investigating_bib]: stenetorp2011investigating.bib.txt
+[stenetorp2011investigating_slides]: presentations/stenetorp2011investigating/presentation.html
 [stenetorp2011simsem]: http://aclweb.org/anthology-new/W/W11/W11-0218.pdf
 [stenetorp2011simsem_bib]: http://aclweb.org/anthology-new/W/W11/W11-0218.bib
 [stenetorp2011supporting]: http://aclweb.org/anthology-new/W/W11/W11-1816.pdf
