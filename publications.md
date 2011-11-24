@@ -5,7 +5,12 @@ title: "Publications"
 
 # Publications #
 
-My hopefully growing list of publications:
+This page contains hopefully growing list of publications, for cases where
+there are more than one (![PDF Icon][pdf_icon]) Portable Document Format (PDF)
+file available, the latter is generally locally hosted on this webpage and the
+former one elsewhere such as a journal. I personally check the BibTeX files on
+this page so that they are accurate, so please use them over the
+Google Scholar BibTeX since the Google ones frequently contain errors.
 
 ## 2011 ##
 
@@ -20,23 +25,24 @@ My hopefully growing list of publications:
     Lexical Resources and Approximate String Matching**.
     *Information Processing Society of Japan Special Interest Groups Notes*,
     Ishigaki, Japan, November 2011. Information Processing Society of Japan.
-    [![PDF][pdf_icon]][stenetorp2011investigating] [![BibTeX][bibtex_icon]][
-    stenetorp2011investigating_bib] [![Slides][slides_icon]][
-    stenetorp2011investigating_slides]
+    [![PDF][pdf_icon]][stenetorp2011investigating]
+    [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
+    [![Slides][slides_icon]][stenetorp2011investigating_slides]
 
 
 * *Pontus Stenetorp*, Sampo Pyysalo, and Jun'ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
     Portland, Oregon, June 2011. Association for Computational Linguistics.
-    [![PDF][pdf_icon]][stenetorp2011simsem] [![BibTeX][bibtex_icon]][
-    stenetorp2011simsem_bib]
+    [![PDF][pdf_icon]][stenetorp2011simsem]
+    [![BibTeX][bibtex_icon]][stenetorp2011simsem_bib]
 
 * *Pontus Stenetorp*, Goran Topić , Sampo Pyysalo, Tomoko Ohta, Jin-Dong Kim,
     and Jun'ichi Tsujii. **BioNLP Shared Task 2011: Supporting Resources**.
     *In Proceedings of the BioNLP 2011 Workshop Companion Volume for Shared
     Task*, pages 112–120, Portland, Oregon, June 2011. Association for
-    Computational Linguistics. [![PDF][pdf_icon]][stenetorp2011supporting]
+    Computational Linguistics.
+    [![PDF][pdf_icon]][stenetorp2011supporting]
     [![Local PDF][pdf_icon]][stenetorp2011supporting_local]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
@@ -46,17 +52,19 @@ My hopefully growing list of publications:
     disputes as rival theories**. *In Kumiyo Nakakoji, Yohei Murakami,
     and Eric McCready, editors, New Frontiers in Artificial Intelligence,
     volume 6284 of Lecture Notes in Computer Science*, pages 59–72. Springer
-    Berlin / Heidelberg. 10.1007/978-3-642-14888-0 6. [![PDF][pdf_icon]][
-    stenetorp2010evaluating] [![BibTeX][bibtex_icon]][
-    stenetorp2010evaluating_bib]
+    Berlin / Heidelberg. 10.1007/978-3-642-14888-0 6.
+    [![PDF][pdf_icon]][stenetorp2010evaluating]
+    [![Local PDF][pdf_icon]][stenetorp2010evaluating_local]
+    [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
 
 ## 2009 ##
 
 * Jason Jingshi Li and *Pontus Stenetorp*. **Evaluating cases in legal
     disputes as rival theories**. *In Proceedings of the Third International
     Workshop on Juris-informatics*, pages 61–72, Tokyo, Japan, November 2009.
-    Japanese Society for Artificial Intelligence. [![PDF][pdf_icon]][
-    li2009evaluating] [![BibTeX][bibtex_icon]][li2009evaluating_bib]
+    Japanese Society for Artificial Intelligence.
+    [![PDF][pdf_icon]][li2009evaluating]
+    [![BibTeX][bibtex_icon]][li2009evaluating_bib]
 
 * Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, *Pontus Stenetorp*, Jun'ichi Tsujii
     and Hae-Chang Rim. **A Novel Word Segmentation Approach for Written
@@ -76,12 +84,13 @@ My hopefully growing list of publications:
 [stenetorp2011supporting_local]: stenetorp2011supporting.pdf
 [stenetorp2011supporting_bib]: http://aclweb.org/anthology-new/W/W11/W11-1816.bib
 [stenetorp2010evaluating]: http://www.springerlink.com/index/m32761634g52n7h4.pdf
+[stenetorp2010evaluating_local]: stenetorp2010evaluating.pdf
 [stenetorp2010evaluating_bib]: stenetorp2010evaluating.bib.txt
 [li2009evaluating]: li2009evaluating.pdf
 [li2009evaluating_bib]: li2009evaluating.bib.txt
 [cho2009novel]: http://www.aclweb.org/anthology/P/P09/P09-2008.pdf
 [cho2009novel_bib]: http://www.aclweb.org/anthology/P/P09/P09-2008.bib
 
-[bibtex_icon]: /bibtex_icon_small.png
+[bibtex_icon]: bibtex_icon_small.png
 [pdf_icon]: document-pdf.png
 [slides_icon]: projection-screen-presentation.png
