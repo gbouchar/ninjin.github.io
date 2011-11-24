@@ -9,13 +9,13 @@ My hopefully growing list of publications:
 
 ## 2011 ##
 
-* *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun’ichi Tsujii.
+* *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
     **Almost Total Recall: Semantic Category Disambiguation Using Large Lexical
     Resources and Approximate String Matching**.
     *In Proceedings of the Fourth International Symposium on Languages in
     Biology and Medicine (to appear)*, Sigapore, Singapore, December 2011.
 
-* *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun’ichi Tsujii.
+* *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
     **Investigating Approaches to Semantic Category Disambiguation Using Large
     Lexical Resources and Approximate String Matching**.
     *Information Processing Society of Japan Special Interest Groups Notes*,
@@ -25,7 +25,7 @@ My hopefully growing list of publications:
     stenetorp2011investigating_slides]
 
 
-* *Pontus Stenetorp*, Sampo Pyysalo, and Jun’ichi Tsujii. **SimSem: Fast
+* *Pontus Stenetorp*, Sampo Pyysalo, and Jun'ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
     Portland, Oregon, June 2011. Association for Computational Linguistics.
@@ -33,10 +33,11 @@ My hopefully growing list of publications:
     stenetorp2011simsem_bib]
 
 * *Pontus Stenetorp*, Goran Topić , Sampo Pyysalo, Tomoko Ohta, Jin-Dong Kim,
-    and Jun’ichi Tsujii. **BioNLP Shared Task 2011: Supporting Resources**.
+    and Jun'ichi Tsujii. **BioNLP Shared Task 2011: Supporting Resources**.
     *In Proceedings of the BioNLP 2011 Workshop Companion Volume for Shared
     Task*, pages 112–120, Portland, Oregon, June 2011. Association for
     Computational Linguistics. [![PDF][pdf_icon]][stenetorp2011supporting]
+    [![Local PDF][pdf_icon]][stenetorp2011supporting_local]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
 ## 2010 ##
@@ -57,7 +58,7 @@ My hopefully growing list of publications:
     Japanese Society for Artificial Intelligence. [![PDF][pdf_icon]][
     li2009evaluating] [![BibTeX][bibtex_icon]][li2009evaluating_bib]
 
-* Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, *Pontus Stenetorp*, Jun’ichi Tsujii
+* Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, *Pontus Stenetorp*, Jun'ichi Tsujii
     and Hae-Chang Rim. **A Novel Word Segmentation Approach for Written
     Languages with Word Boundary Markers**. *In Proceedings of the ACL-IJCNLP
     2009 Conference Short Papers*, pages 29–32, Suntec, Singapore, August
@@ -72,6 +73,7 @@ My hopefully growing list of publications:
 [stenetorp2011simsem]: http://aclweb.org/anthology-new/W/W11/W11-0218.pdf
 [stenetorp2011simsem_bib]: http://aclweb.org/anthology-new/W/W11/W11-0218.bib
 [stenetorp2011supporting]: http://aclweb.org/anthology-new/W/W11/W11-1816.pdf
+[stenetorp2011supporting_local]: stenetorp2011supporting.pdf
 [stenetorp2011supporting_bib]: http://aclweb.org/anthology-new/W/W11/W11-1816.bib
 [stenetorp2010evaluating]: http://www.springerlink.com/index/m32761634g52n7h4.pdf
 [stenetorp2010evaluating_bib]: stenetorp2010evaluating.bib.txt
