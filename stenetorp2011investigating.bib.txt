@@ -6,5 +6,5 @@
         and Approximate String Matching},
     publisher   = {Information Processing Society of Japan (IPSJ)},
     year        = {2011},
-    booktitle   = {IPSJ SIG Notes (to appear)},
+    booktitle   = {IPSJ SIG Notes},
 }
