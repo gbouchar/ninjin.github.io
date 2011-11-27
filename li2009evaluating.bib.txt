@@ -1,6 +1,6 @@
 @inproceedings{li2009evaluating,
     address     = {Tokyo, Japan}
-    author      = {Li, Jason and Stenetorp, Pontus},
+    author      = {Li, Jason Jingshi and Stenetorp, Pontus},
     booktitle   = {Proceedings of the Third International Workshop on Juris-informatics ({JURISIN 2009})},
     isbn        = {4-915905-38-1},
     month       = {November},

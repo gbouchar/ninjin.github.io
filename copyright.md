@@ -11,28 +11,33 @@ As much hassle as legal matters can be, here is what you need to know.
 
 All artistic content such as text and images contained on this website, unless
 explicitly stated otherwise, is available under the
-<a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons
-Attribution 3.0 Unported (CC BY 3.0) License</a>.
+[Creative Commons Attribution 3.0 Unported (CC BY 3.0) License][ccby3.0]
 
 ## Code ##
 
-All code contained in the
-<a href="https://github.com/ninjin/ninjin.github.com">website repository</a>
-and found on this website, unless explicitly stated otherwise, is available
-under the <a href="http://www.opensource.org/licenses/ISC">Internet Systems
-Consortium (ISC) License</a>.
+All code contained in the [website repository][website_repo] and found on this
+website, unless explicitly stated otherwise, is available under the [Internet
+Systems Consortium (ISC) License][iscl].
 
 ## BibTeX Icon ##
 
-The small BiBTeX icon (![BibTeX_Icon](/bibtex_icon_small.png)) is generated
-from a modified version of the [Wikipedia BibTeX logo Scaleable Vector
-Graphics (SVG) image](http://commons.wikimedia.org/wiki/File:BibTeX_logo.svg)
-which is in the public domain. Consider my icon version (SVG and PNG) to have
-the same licensing restrictions.
+The small BiBTeX icon (![BibTeX_Icon][bibtex_icon]) is generated from a
+modified version of the [Wikipedia BibTeX logo Scaleable Vector Graphics (SVG)
+image][bibtex_wikipe] which is in the public domain. Consider my icon version
+(SVG and PNG) to have the same licensing restrictions.
 
-## Portable Document Format (PDF) Icon ##
+## Fugue Icon Set ##
 
-The small PDF icon (![PDF Icon](/pdficon_small.gif)) used to indicate PDF
-document links is used under the restrictions found on
-[this page](http://www.adobe.com/misc/linking.html). If you know of a
-reasonably looking free (as in freedom) version, please contact me.
+Some icons (![PDF Icon][pdf_icon] and ![Slides Icon][slides_icon])
+by [Yusuke Kamiyamane][fugue]. All rights reserved.
+Licensed under a [Creative Commons Attribution 3.0 License][ccby3.0].
+
+<!-- Links -->
+[ccby3.0]: https://creativecommons.org/licenses/by/3.0/
+[website_repo]: https://github.com/ninjin/ninjin.github.com
+[iscl]: http://www.opensource.org/licenses/ISC
+[bibtex_icon]: /bibtex_icon_small.png
+[bibtex_wikipe]: http://commons.wikimedia.org/wiki/File:BibTeX_logo.svg
+[pdf_icon]: document-pdf.png
+[slides_icon]: projection-screen-presentation.png
+[fugue]: http://p.yusukekamiyamane.com/
