@@ -23,10 +23,12 @@ I can highly recommend reading the Japan Broadcasting Corporation (NHK)
 letters from Touhoku, it is heart shattering and a reminder of what truly
 happened on that day, something which dwarfs the panic and one-sided
 international reporting focusing on Fukishima Daiichi alone (I should write a
-short essay on this media issue).
+short essay on this media issue, here is [one by a friend with some minor
+additions by me][no_panic]).
 
 [dn_svensk]: http://www.dn.se/nyheter/varlden/svensk-i-tokyo-jag-har-tappat-rakningen-pa-efterskalv
 [dn_svensk_gt]: http://goo.gl/ZzigF
+[no_panic]: http://udon.stacken.kth.se/~goran/nopanic.en.html
 
 ## Svenska Dagbladet 2008-06-15 ##
 
