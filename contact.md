@@ -22,7 +22,7 @@ if (window.onload !== undefined) {
     oldOnload = window.onload;
 }
 
-window.onload = function (event) {
+window.onload = function(event) {
     obfuscated = document.getElementById('obfuscated');
     // This should be hard enough for most bots
     obfuscated.textContent = obfuscated.textContent
