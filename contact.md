@@ -23,7 +23,7 @@ if (window.onload !== undefined) {
 }
 
 window.onload = function(event) {
-    obfuscated = document.getElementById('obfuscated');
+    var obfuscated = document.getElementById('obfuscated');
     // This should be hard enough for most bots
     obfuscated.textContent = obfuscated.textContent
             .replace('s s', 's@s').replace('p s', 'p.s');
