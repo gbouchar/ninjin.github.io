@@ -18,7 +18,8 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     **Almost Total Recall: Semantic Category Disambiguation Using Large Lexical
     Resources and Approximate String Matching**.
     *In Proceedings of the Fourth International Symposium on Languages in
-    Biology and Medicine (to appear)*, Sigapore, Singapore, December 2011.
+    Biology and Medicine (to appear)*, Singapore, Singapore, December 2011.
+    [![BibTeX][bibtex_icon]][stenetorp2011almost_bib]
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
     **Investigating Approaches to Semantic Category Disambiguation Using Large
@@ -75,6 +76,7 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     [![BibTeX][bibtex_icon]][cho2009novel_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2011almost_bib]: stenetorp2011almost.bib.txt
 [stenetorp2011investigating]: stenetorp2011investigating.pdf
 [stenetorp2011investigating_bib]: stenetorp2011investigating.bib.txt
 [stenetorp2011investigating_slides]: presentations/stenetorp2011investigating/presentation.html

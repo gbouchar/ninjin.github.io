@@ -1,6 +1,6 @@
 @inproceedings{stenetorp2011investigating,
-    author      = {Stenetorp, P. and Pyysalo, S.
-        and Ananiadou, S. and Tsujii, J.},
+    author      = {Stenetorp, Pontus and Pyysalo, Sampo
+        and Ananiadou, Sophia and Tsujii, Jun'ichi},
     title       = {Investigating Approaches
         to Semantic Category Disambiguation Using Large Lexical Resources
         and Approximate String Matching},
