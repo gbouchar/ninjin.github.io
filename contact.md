@@ -16,23 +16,9 @@ significant action on my part or I am exceedingly busy I will reply swiftly:
 </code>
 <!-- But if we do have JavaScript we de-obfuscate the e-mail for the user -->
 <script type="text/javascript">
-// Store any existing onload
-var oldOnload;
-if (window.onload !== undefined) {
-    oldOnload = window.onload;
-}
-
-window.onload = function(event) {
-    var obfuscated = document.getElementById('obfuscated');
-    // This should be hard enough for most bots
-    obfuscated.textContent = obfuscated.textContent
-            .replace('s s', 's@s').replace('p s', 'p.s');
-
-    // Lastly call the old unload, if it was a function
-    if (typeof oldOnload === 'function') {
-        oldOnload(event);
-    }
-}
+// This should be hard enough for most bots
+obfuscated.textContent = obfuscated.textContent
+        .replace('s s', 's@s').replace('p s', 'p.s');
 </script>
 
 Contrary to a popular misconception about people in academia, most (and myself
