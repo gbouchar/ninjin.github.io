@@ -8,7 +8,32 @@ title: Contact
 The preferred way to contact me is always by e-mail, unless your mail requires
 significant action on my part or I am exceedingly busy I will reply swiftly:
 
+<!-- If we don't have any JavaScript we use a simple form that really only can
+    be translated into a single address (well, web-wise pretty much all e-mail
+    has an "at" and a "dot", in that order) -->
+<code id="obfuscated">
     pontus stenetorp se
+</code>
+<!-- But if we do have JavaScript we de-obfuscate the e-mail for the user -->
+<script type="text/javascript">
+// Store any existing onload
+var oldOnload;
+if (window.onload !== undefined) {
+    oldOnload = window.onload;
+}
+
+window.onload = function (event) {
+    obfuscated = document.getElementById('obfuscated');
+    // This should be hard enough for most bots
+    obfuscated.textContent = obfuscated.textContent
+            .replace('s s', 's@s').replace('p s', 'p.s');
+
+    // Lastly call the old unload, if it was a function
+    if (typeof oldOnload === 'function') {
+        oldOnload(event);
+    }
+}
+</script>
 
 Contrary to a popular misconception about people in academia, most (and myself
 in particular) do not mind **you**, yes **you**, fellow student, researcher
