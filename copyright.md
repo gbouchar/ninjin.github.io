@@ -38,6 +38,6 @@ Licensed under a [Creative Commons Attribution 3.0 License][ccby3.0].
 [iscl]: http://www.opensource.org/licenses/ISC
 [bibtex_icon]: /bibtex_icon_small.png
 [bibtex_wikipe]: http://commons.wikimedia.org/wiki/File:BibTeX_logo.svg
-[pdf_icon]: document-pdf.png
+[pdf_icon]: document-pdf-text.png
 [slides_icon]: projection-screen-presentation.png
 [fugue]: http://p.yusukekamiyamane.com/

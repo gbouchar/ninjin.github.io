@@ -98,6 +98,6 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
 [cho2009novel_bib]: http://www.aclweb.org/anthology/P/P09/P09-2008.bib
 
 [bibtex_icon]: bibtex_icon_small.png
-[pdf_icon]: document-pdf.png
+[pdf_icon]: document-pdf-text.png
 [slides_icon]: projection-screen-presentation.png
 [poster_icon]: application-blog.png
