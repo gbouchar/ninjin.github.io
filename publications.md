@@ -36,6 +36,8 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
     Portland, Oregon, June 2011. Association for Computational Linguistics.
     [![PDF][pdf_icon]][stenetorp2011simsem]
+    <!-- XXX: Change to poster icon -->
+    [![Poster][pdf_icon]][stenetorp2011simsem_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011simsem_bib]
 
 * *Pontus Stenetorp*, Goran Topić , Sampo Pyysalo, Tomoko Ohta, Jin-Dong Kim,
@@ -45,6 +47,8 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     Computational Linguistics.
     [![PDF][pdf_icon]][stenetorp2011supporting]
     [![Local PDF][pdf_icon]][stenetorp2011supporting_local]
+    <!-- XXX: Change to poster icon -->
+    [![Poster][pdf_icon]][stenetorp2011supporting_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
 ## 2010 ##
@@ -81,9 +85,11 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
 [stenetorp2011investigating_bib]: stenetorp2011investigating.bib.txt
 [stenetorp2011investigating_slides]: presentations/stenetorp2011investigating/presentation.html
 [stenetorp2011simsem]: http://aclweb.org/anthology-new/W/W11/W11-0218.pdf
+[stenetorp2011simsem_poster]: stenetorp2011simsem_poster.pdf
 [stenetorp2011simsem_bib]: http://aclweb.org/anthology-new/W/W11/W11-0218.bib
 [stenetorp2011supporting]: http://aclweb.org/anthology-new/W/W11/W11-1816.pdf
 [stenetorp2011supporting_local]: stenetorp2011supporting.pdf
+[stenetorp2011supporting_poster]: stenetorp2011supporting_poster.pdf
 [stenetorp2011supporting_bib]: http://aclweb.org/anthology-new/W/W11/W11-1816.bib
 [stenetorp2010evaluating]: http://www.springerlink.com/index/m32761634g52n7h4.pdf
 [stenetorp2010evaluating_local]: stenetorp2010evaluating.pdf
