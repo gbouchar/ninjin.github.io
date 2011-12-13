@@ -36,8 +36,7 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
     Portland, Oregon, June 2011. Association for Computational Linguistics.
     [![PDF][pdf_icon]][stenetorp2011simsem]
-    <!-- XXX: Change to poster icon -->
-    [![Poster][pdf_icon]][stenetorp2011simsem_poster]
+    [![Poster][poster_icon]][stenetorp2011simsem_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011simsem_bib]
 
 * *Pontus Stenetorp*, Goran Topić , Sampo Pyysalo, Tomoko Ohta, Jin-Dong Kim,
@@ -47,8 +46,7 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     Computational Linguistics.
     [![PDF][pdf_icon]][stenetorp2011supporting]
     [![Local PDF][pdf_icon]][stenetorp2011supporting_local]
-    <!-- XXX: Change to poster icon -->
-    [![Poster][pdf_icon]][stenetorp2011supporting_poster]
+    [![Poster][poster_icon]][stenetorp2011supporting_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
 ## 2010 ##
@@ -102,3 +100,4 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
 [bibtex_icon]: bibtex_icon_small.png
 [pdf_icon]: document-pdf.png
 [slides_icon]: projection-screen-presentation.png
+[poster_icon]: application-blog.png
