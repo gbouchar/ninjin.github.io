@@ -5,12 +5,22 @@ title: "Publications"
 
 # Publications #
 
-This page contains hopefully growing list of publications, for cases where
-there are more than one (![PDF Icon][pdf_icon]) Portable Document Format (PDF)
-file available, the latter is generally locally hosted on this webpage and the
-former one elsewhere such as a journal. I personally check the BibTeX files on
+This page contains hopefully growing list of publications.
+Due to copyright reasons I am sometimes not allowed to host my publications on
+this site, I refer to these as external Portable Document Format (PDF) files
+(![External PDF][external_pdf_icon]).
+However, in most cases I provide a link to the authorative external publisher
+and to a local copy (![Local PDF][local_pdf_icon]) that is served by this
+website.
+If the publication was presented as a presentation, the slides
+(![Slides][slides_icon]) are hosted on this site.
+For cases where it was presented as a poster (![Poster][poster_icon]) or both
+as a presentation and a poster, a copy of the poster is linked as well.
+In regards to BibTeX, I personally check the BibTeX files on
 this page so that they are accurate, so please use them over the
 Google Scholar BibTeX since the Google ones frequently contain errors.
+If you have any questions or find errors in my publications, feel free to
+[contact me][contact_page] about it.
 
 ## 2011 ##
 
@@ -26,16 +36,16 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     Lexical Resources and Approximate String Matching**.
     *Information Processing Society of Japan Special Interest Groups Notes*,
     Ishigaki, Japan, November 2011. Information Processing Society of Japan.
-    [![PDF][pdf_icon]][stenetorp2011investigating]
-    [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
+    [![Local PDF][local_pdf_icon]][stenetorp2011investigating]
     [![Slides][slides_icon]][stenetorp2011investigating_slides]
+    [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
 
 
 * *Pontus Stenetorp*, Sampo Pyysalo, and Jun'ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
     Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
     Portland, Oregon, June 2011. Association for Computational Linguistics.
-    [![PDF][pdf_icon]][stenetorp2011simsem]
+    [![External PDF][external_pdf_icon]][stenetorp2011simsem]
     [![Poster][poster_icon]][stenetorp2011simsem_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011simsem_bib]
 
@@ -44,8 +54,8 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     *In Proceedings of the BioNLP 2011 Workshop Companion Volume for Shared
     Task*, pages 112–120, Portland, Oregon, June 2011. Association for
     Computational Linguistics.
-    [![PDF][pdf_icon]][stenetorp2011supporting]
-    [![Local PDF][pdf_icon]][stenetorp2011supporting_local]
+    [![External PDF][external_pdf_icon]][stenetorp2011supporting]
+    [![Local PDF][local_pdf_icon]][stenetorp2011supporting_local]
     [![Poster][poster_icon]][stenetorp2011supporting_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
@@ -56,8 +66,8 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     and Eric McCready, editors, New Frontiers in Artificial Intelligence,
     volume 6284 of Lecture Notes in Computer Science*, pages 59–72. Springer
     Berlin / Heidelberg. 10.1007/978-3-642-14888-0 6.
-    [![PDF][pdf_icon]][stenetorp2010evaluating]
-    [![Local PDF][pdf_icon]][stenetorp2010evaluating_local]
+    [![External PDF][external_pdf_icon]][stenetorp2010evaluating]
+    [![Local PDF][local_pdf_icon]][stenetorp2010evaluating_local]
     [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
 
 ## 2009 ##
@@ -66,7 +76,7 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     disputes as rival theories**. *In Proceedings of the Third International
     Workshop on Juris-informatics*, pages 61–72, Tokyo, Japan, November 2009.
     Japanese Society for Artificial Intelligence.
-    [![PDF][pdf_icon]][li2009evaluating]
+    [![Local PDF][local_pdf_icon]][li2009evaluating]
     [![BibTeX][bibtex_icon]][li2009evaluating_bib]
 
 * Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, *Pontus Stenetorp*, Jun'ichi Tsujii
@@ -74,7 +84,7 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
     Languages with Word Boundary Markers**. *In Proceedings of the ACL-IJCNLP
     2009 Conference Short Papers*, pages 29–32, Suntec, Singapore, August
     2009. Association for Computational Linguistics.
-    [![PDF][pdf_icon]][cho2009novel]
+    [![External PDF][external_pdf_icon]][cho2009novel]
     [![BibTeX][bibtex_icon]][cho2009novel_bib]
 
 <!-- Publication and BibTeX links -->
@@ -98,6 +108,9 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
 [cho2009novel_bib]: http://www.aclweb.org/anthology/P/P09/P09-2008.bib
 
 [bibtex_icon]: bibtex_icon_small.png
-[pdf_icon]: document-pdf-text.png
+[external_pdf_icon]: document-pdf-text.png
+[local_pdf_icon]: blue-document-pdf-text.png
 [slides_icon]: projection-screen-presentation.png
 [poster_icon]: application-blog.png
+
+[contact_page]: contact.html
