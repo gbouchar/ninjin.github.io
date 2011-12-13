@@ -1,7 +1,7 @@
 <!-- Mildly prettified Google Analytics JavaScript -->
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-25185150-1']);
-_gaq.<div id="header">push(['_trackPageview']);
+_gaq.push(['_trackPageview']);
 (function() {
     var ga = document.createElement('script');
     ga.type = 'text/javascript';
