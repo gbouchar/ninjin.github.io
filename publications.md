@@ -28,8 +28,9 @@ If you have any questions or find errors in my publications, feel free to
     **Almost Total Recall: Semantic Category Disambiguation Using Large Lexical
     Resources and Approximate String Matching**.
     *In Proceedings of the Fourth International Symposium on Languages in
-    Biology and Medicine (to appear)*, Singapore, Singapore, December 2011.
+    Biology and Medicine*, Singapore, Singapore, December 2011.
     [![Local PDF][local_pdf_icon]][stenetorp2011almost]
+    [![Poster][poster_icon]][stenetorp2011almost_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011almost_bib]
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
@@ -90,6 +91,7 @@ If you have any questions or find errors in my publications, feel free to
 
 <!-- Publication and BibTeX links -->
 [stenetorp2011almost]: stenetorp2011almost.pdf
+[stenetorp2011almost_poster]: stenetorp2011almost_poster.pdf
 [stenetorp2011almost_bib]: stenetorp2011almost.bib.txt
 [stenetorp2011investigating]: stenetorp2011investigating.pdf
 [stenetorp2011investigating_bib]: stenetorp2011investigating.bib.txt
