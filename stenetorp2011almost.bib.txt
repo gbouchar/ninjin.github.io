@@ -5,5 +5,5 @@
         Using Large Lexical Resources and Approximate String Matching},
     year        = {2011},
     booktitle   = {In Proceedings of the Fourth International Symposium
-        on Languages in Biology and Medicine (to appear)},
+        on Languages in Biology and Medicine},
 }
