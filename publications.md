@@ -29,6 +29,7 @@ If you have any questions or find errors in my publications, feel free to
     Resources and Approximate String Matching**.
     *In Proceedings of the Fourth International Symposium on Languages in
     Biology and Medicine (to appear)*, Singapore, Singapore, December 2011.
+    [![Local PDF][local_pdf_icon]][stenetorp2011almost]
     [![BibTeX][bibtex_icon]][stenetorp2011almost_bib]
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
@@ -88,6 +89,7 @@ If you have any questions or find errors in my publications, feel free to
     [![BibTeX][bibtex_icon]][cho2009novel_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2011almost]: stenetorp2011almost.pdf
 [stenetorp2011almost_bib]: stenetorp2011almost.bib.txt
 [stenetorp2011investigating]: stenetorp2011investigating.pdf
 [stenetorp2011investigating_bib]: stenetorp2011investigating.bib.txt
