@@ -30,6 +30,7 @@ If you have any questions or find errors in my publications, feel free to
     *In Proceedings of the Fourth International Symposium on Languages in
     Biology and Medicine*, Singapore, Singapore, December 2011.
     [![Local PDF][local_pdf_icon]][stenetorp2011almost]
+    [![Slides][slides_icon]][stenetorp2011almost_slides]
     [![Poster][poster_icon]][stenetorp2011almost_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011almost_bib]
 
@@ -91,6 +92,7 @@ If you have any questions or find errors in my publications, feel free to
 
 <!-- Publication and BibTeX links -->
 [stenetorp2011almost]: stenetorp2011almost.pdf
+[stenetorp2011almost_slides]: presentations/stenetorp2011almost/presentation.html
 [stenetorp2011almost_poster]: stenetorp2011almost_poster.pdf
 [stenetorp2011almost_bib]: stenetorp2011almost.bib.txt
 [stenetorp2011investigating]: stenetorp2011investigating.pdf
