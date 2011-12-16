@@ -1,0 +1,9 @@
+@mastersthesis{stenetorp2010automatic,
+    author={Pontus Stenetorp},
+    title={Automated Extraction of Swedish Neologisms using a Temporally
+            Annotated Corpus},
+    school={Royal Institute of Technology (KTH)},
+    year={2010},
+    month={March},
+    address={Stockholm, Sweden}
+}

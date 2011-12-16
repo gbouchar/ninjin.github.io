@@ -73,6 +73,13 @@ If you have any questions or find errors in my publications, feel free to
     [![Local PDF][local_pdf_icon]][stenetorp2010evaluating_local]
     [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
 
+* *Pontus Stenetorp*. **Automated Extraction of Swedish Neologisms using a
+    Temporally Annotated Corpus**. Master of Science in Engineering
+    (M.Sc.Eng.) Thesis, Royal Institute of Technology (KTH), March 2010.
+    [![External PDF][external_pdf_icon]][stenetorp2010automated]
+    [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
+    [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
+
 ## 2009 ##
 
 * Jason Jingshi Li and *Pontus Stenetorp*. **Evaluating cases in legal
@@ -108,6 +115,9 @@ If you have any questions or find errors in my publications, feel free to
 [stenetorp2010evaluating]: http://www.springerlink.com/index/m32761634g52n7h4.pdf
 [stenetorp2010evaluating_local]: stenetorp2010evaluating.pdf
 [stenetorp2010evaluating_bib]: stenetorp2010evaluating.bib.txt
+[stenetorp2010automated]: https://www.nada.kth.se/utbildning/grukth/exjobb/rapportlistor/2010/rapporter10/stenetorp_pontus_10017.pdf
+[stenetorp2010automated_local]: stenetorp2010automated.pdf
+[stenetorp2010automated_bib]: stenetorp2010automated.bib.txt
 [li2009evaluating]: li2009evaluating.pdf
 [li2009evaluating_bib]: li2009evaluating.bib.txt
 [cho2009novel]: http://www.aclweb.org/anthology/P/P09/P09-2008.pdf
