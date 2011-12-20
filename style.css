@@ -143,3 +143,7 @@ img.favicon {
     max-width:  16px;
     max-height: 16px;
 }
+
+#human h1 {
+    font-family: 'Cabin Sketch', cursive;
+}
