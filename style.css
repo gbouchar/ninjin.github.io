@@ -31,16 +31,10 @@ body {
 }
 
 /* Re-style links globally */
-a:link    {
+a:link, a:visited {
     text-decoration:  none;
 } 
-a:visited {
-    text-decoration:  none;
-} 
-a:hover   {
-    text-decoration:  underline;
-} 
-a:active  {
+a:hover, a:active {
     text-decoration:  underline;
 } 
 
@@ -146,4 +140,8 @@ img.favicon {
 
 #human h1 {
     font-family: 'Cabin Sketch', cursive;
+}
+
+#human h2 a:link, #human h2 a:visited {
+    color: black;
 }

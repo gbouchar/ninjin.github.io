@@ -13,7 +13,7 @@ hope for order.
 {% for post in site.posts %}
     {% if post.categories contains 'human' %}
 
-## {{ post.date | | date:'%Y-%m-%d' }}: {{ post.title }}  ##
+## [{{ post.date | | date:'%Y-%m-%d' }}: {{ post.title }}]({{ post.url }})  ##
 
 {{ post.content }}
 
