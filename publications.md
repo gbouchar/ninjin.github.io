@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Publications"
+title:  Publications
 ---
 
-# Publications #
+# {{ page.title }} #
 
 This page contains hopefully growing list of publications.
 Due to copyright reasons I am sometimes not allowed to host my publications on

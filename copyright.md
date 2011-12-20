@@ -1,9 +1,9 @@
 ---
 layout: base
-title: Copyright
+title:  Copyright
 ---
 
-# Copyright #
+# {{ page.title }} #
 
 As much hassle as legal matters can be, here is what you need to know.
 

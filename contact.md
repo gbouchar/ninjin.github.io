@@ -1,9 +1,9 @@
 ---
 layout: base
-title: Contact
+title:  Contact
 ---
 
-# Contact #
+# {{ page.title }} #
 
 The preferred way to contact me is always by e-mail, unless your mail requires
 significant action on my part or I am exceedingly busy I will reply swiftly:

@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "Code"
+title:  Code
 ---
 
-# Code #
+# {{ page.title }} #
 
 I like playing around with ideas and code, I don't refer to myself as a
 hacker, but I like to hack. Making myself smile, other people smile and maybe

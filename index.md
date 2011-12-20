@@ -1,6 +1,6 @@
 ---
 layout: index
-title:  "Welcome!"
+title:  Welcome!
 ---
 
 My name is Pontus Stenetorp, I am a second year Ph.D. student at the [Aizawa

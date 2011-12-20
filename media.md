@@ -1,9 +1,9 @@
 ---
 layout: base
-title: 'Media Attention'
+title:  Media Attention
 ---
 
-# Media Attention #
+# {{ page.title }} #
 
 Sometimes I (rather undeservingly) receive some massmedia attention.
 Below are some links.
