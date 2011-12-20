@@ -11,16 +11,3 @@ layout: base
 <br>
 {{ content }}
 <br/>
-
-<!-- Site related news -->
-<h1>News</h1>
-<br/>
-{% for post in site.posts limit:3 %}
-    {% if post.categories contains 'news' %}
-        <li>
-            <span>
-                {{ post.date | date_to_string }}
-            </span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-    {% endif %}
-{% endfor %}

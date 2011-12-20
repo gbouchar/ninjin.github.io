@@ -25,6 +25,18 @@ code for fun, [hacking on an operating system][freebsd], biking, traveling and
 photography. My [Erdős number][erdos] is 5 (Me -> J. J. Li -> T. Kowalski ->
 P. Jipsen -> Z. Tuza -> P. Erdős).
 
+## Recent News ##
+
+{% for post in site.posts %}
+    {% if post.categories contains 'news' %}
+
+### {{ post.date | | date:'%Y-%m-%d' }}: {{ post.title }}  ###
+
+{{ post.content }}
+
+    {% endif %}
+{% endfor %}
+
 [aizawa]:       http://www-al.nii.ac.jp/en/index.html
 [erdos]:        http://en.wikipedia.org/wiki/Erd%C5%91s_number
 [freebsd]:      http://www.freebsd.org/
