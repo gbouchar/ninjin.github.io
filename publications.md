@@ -67,8 +67,8 @@ If you have any questions or find errors in my publications, feel free to
 * *Pontus Stenetorp* and Jason Jingshi Li. **Evaluating cases in legal
     disputes as rival theories**. *In Kumiyo Nakakoji, Yohei Murakami,
     and Eric McCready, editors, New Frontiers in Artificial Intelligence,
-    volume 6284 of Lecture Notes in Computer Science*, pages 59–72. Springer
-    Berlin / Heidelberg. 10.1007/978-3-642-14888-0 6.
+    volume 6284 of Lecture Notes in Computer Science*, pages 59–72,
+    August 2010, Springer Berlin / Heidelberg. 10.1007/978-3-642-14888-0 6.
     [![External PDF][external_pdf_icon]][stenetorp2010evaluating]
     [![Local PDF][local_pdf_icon]][stenetorp2010evaluating_local]
     [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
