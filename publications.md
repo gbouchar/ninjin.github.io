@@ -72,13 +72,6 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     [![Local PDF][local_pdf_icon]][stenetorp2010evaluating_local]
     [![BibTeX][bibtex_icon]][stenetorp2010evaluating_bib]
 
-* *Pontus Stenetorp*. **Automated Extraction of Swedish Neologisms using a
-    Temporally Annotated Corpus**. Master of Science in Engineering
-    (M.Sc.Eng.) Thesis, Royal Institute of Technology (KTH), March 2010.
-    [![External PDF][external_pdf_icon]][stenetorp2010automated]
-    [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
-    [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
-
 ### 2009 ###
 
 * Jason Jingshi Li and *Pontus Stenetorp*. **Evaluating cases in legal
@@ -114,6 +107,32 @@ a partial contribution if the domestic organisers allow for this.
     [![Local PDF][local_pdf_icon]][stenetorp2011investigating]
     [![Slides][slides_icon]][stenetorp2011investigating_slides]
     [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
+
+## Theses ##
+
+Theses are not peer-reviewed or presented to a wider audience.
+However, they can be of interest to a researcher since they provide a summary
+of current methods and can thus be an entry point to a scientific field.
+Preferably findings should be published in a peer-reviewed venue, but that is
+not always the case.
+
+Do note that you will not find a bachelor thesis below, the now out-dated
+Swedish system for attaining a Master of Science in Engineering (M.Sc.Eng.)
+involved enrolling a student for four-and-a-half or five years after
+completing upper secondary school (high school for our American readers, it
+should also be noted that Swedish higher education still lacks a first year of
+introductory courses followed by deciding your major, Swedish students have
+instead spent an additional year in upper secondary school and still graduate
+at an age of 19).
+
+### 2010 ###
+
+* *Pontus Stenetorp*. **Automated Extraction of Swedish Neologisms using a
+    Temporally Annotated Corpus**. Master of Science in Engineering
+    (M.Sc.Eng.) Thesis, Royal Institute of Technology (KTH), March 2010.
+    [![External PDF][external_pdf_icon]][stenetorp2010automated]
+    [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
+    [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
 [stenetorp2011almost]: stenetorp2011almost.pdf
