@@ -24,7 +24,14 @@ Google Scholar BibTeX since the Google ones frequently contain errors.
 If you have any questions or find errors in my publications, feel free to
 [contact me][contact_page] about it.
 
-## 2011 ##
+## International ##
+
+Papers published at international scientific venues, international is used in
+the sense that the venue does not limit its audience to anything less than the
+global scientific community.
+Unless explicitly stated otherwise these papers have undergone peer-review.
+
+### 2011 ###
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
     **Almost Total Recall: Semantic Category Disambiguation Using Large Lexical
@@ -35,16 +42,6 @@ If you have any questions or find errors in my publications, feel free to
     [![Slides][slides_icon]][stenetorp2011almost_slides]
     [![Poster][poster_icon]][stenetorp2011almost_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011almost_bib]
-
-* *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
-    **Investigating Approaches to Semantic Category Disambiguation Using Large
-    Lexical Resources and Approximate String Matching**.
-    *Information Processing Society of Japan Special Interest Groups Notes*,
-    Ishigaki, Japan, November 2011. Information Processing Society of Japan.
-    [![Local PDF][local_pdf_icon]][stenetorp2011investigating]
-    [![Slides][slides_icon]][stenetorp2011investigating_slides]
-    [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
-
 
 * *Pontus Stenetorp*, Sampo Pyysalo, and Jun'ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
@@ -64,7 +61,7 @@ If you have any questions or find errors in my publications, feel free to
     [![Poster][poster_icon]][stenetorp2011supporting_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011supporting_bib]
 
-## 2010 ##
+### 2010 ###
 
 * *Pontus Stenetorp* and Jason Jingshi Li. **Evaluating cases in legal
     disputes as rival theories**. *In Kumiyo Nakakoji, Yohei Murakami,
@@ -82,7 +79,7 @@ If you have any questions or find errors in my publications, feel free to
     [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
-## 2009 ##
+### 2009 ###
 
 * Jason Jingshi Li and *Pontus Stenetorp*. **Evaluating cases in legal
     disputes as rival theories**. *In Proceedings of the Third International
@@ -98,6 +95,25 @@ If you have any questions or find errors in my publications, feel free to
     2009. Association for Computational Linguistics.
     [![External PDF][external_pdf_icon]][cho2009novel]
     [![BibTeX][bibtex_icon]][cho2009novel_bib]
+
+## Domestic ##
+
+Domestic conferences, at least in the case of Japan, are seldom peer-reviewed
+and are thus treated differently than the above publications.
+Since non-peer-reviewed papers doesn't count as a prior publication material
+from these papers may make it into papers submitted to international venues as
+a partial contribution if the domestic organisers allow for this.
+
+### 2011 ###
+
+* *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
+    **Investigating Approaches to Semantic Category Disambiguation Using Large
+    Lexical Resources and Approximate String Matching**.
+    *Information Processing Society of Japan Special Interest Groups Notes*,
+    Ishigaki, Japan, November 2011. Information Processing Society of Japan.
+    [![Local PDF][local_pdf_icon]][stenetorp2011investigating]
+    [![Slides][slides_icon]][stenetorp2011investigating_slides]
+    [![BibTeX][bibtex_icon]][stenetorp2011investigating_bib]
 
 <!-- Publication and BibTeX links -->
 [stenetorp2011almost]: stenetorp2011almost.pdf
