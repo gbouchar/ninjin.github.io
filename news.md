@@ -1,6 +1,7 @@
 ---
 layout: base
-title: News
+title:  News
+cmeta:  "News regarding this website and its content."
 ---
 
 # {{ page.title }} #

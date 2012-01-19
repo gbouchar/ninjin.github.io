@@ -1,6 +1,8 @@
 ---
 layout: base
 title:  Contact
+cmeta:  "How best to get in touch with me by e-mail, phone or visiting my work
+        place."
 ---
 
 # {{ page.title }} #

@@ -1,6 +1,7 @@
 ---
 layout: human
 title:  Feelings of an Almost Human Nature
+cmeta:  "A blog about technology and life, musings of a curious character."
 ---
 
 # {{ page.title }} #

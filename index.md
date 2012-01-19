@@ -4,7 +4,7 @@ title:          Welcome!
 cmeta:          "Homepage of your run-of-the-mill Ph.D. student in
                 Natural Language Processing (NLP), contains:
                 my publication list, blog posts, reflections on life
-                and your occassional rant."
+                and your occasional rant."
 ---
 
 My name is Pontus Stenetorp, I am a second year Ph.D. student at the [Aizawa

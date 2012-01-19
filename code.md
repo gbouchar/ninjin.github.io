@@ -1,6 +1,8 @@
 ---
 layout: base
 title:  Code
+cmeta:  "Links to repositories and homepages of some open-source software
+        projects/tools that I haves been involved with."
 ---
 
 # {{ page.title }} #

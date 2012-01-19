@@ -1,6 +1,8 @@
 ---
 layout: base
 title:  Publications
+cmeta:  "My publication list, constantly kept up-to-date with links to
+        publications, posters, presentations and accurate BibTeX files."
 ---
 
 # {{ page.title }} #

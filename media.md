@@ -1,11 +1,13 @@
 ---
 layout: base
 title:  Media Attention
+cmeta:  "Links to mass media attention given to me or things I have been
+        involved in."
 ---
 
 # {{ page.title }} #
 
-Sometimes I (rather undeservingly) receive some massmedia attention.
+Sometimes I (rather undeservingly) receive some mass media attention.
 Below are some links.
 When the original article is in a non-English language I provide a Google
 Translate link (it gives a rough approximation of the actual text, my name is
@@ -32,7 +34,7 @@ additions by me][no_panic]).
 
 ## Kungliga Tekniska högskolan (KTH) 2009-02-24 ##
 
-Strictly speaking, not massmedia, but [an interview with me about my student
+Strictly speaking, not mass media, but [an interview with me about my student
 life at KTH][kth_interview] ([Google Translate][kth_interview_gt]), what I had
 experienced and where I was going next.
 

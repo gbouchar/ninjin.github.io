@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  Copyright
+cmeta:  "Copyright and legal notes related to the content of the site."
 ---
 
 # {{ page.title }} #
