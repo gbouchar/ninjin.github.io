@@ -31,6 +31,15 @@ the sense that the venue does not limit its audience to anything less than the
 global scientific community.
 Unless explicitly stated otherwise these papers have undergone peer-review.
 
+### 2012 ###
+
+* *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić , Tomoko Ohta,
+    Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
+    for NLP-Assisted Text Annotation**. *In Proceedings of the Demonstrations
+    Sessions at EACL 2012 (to appear)*, Avignon, France, April 2012.
+    [![BibTeX][bibtex_icon]][stenetorp2012brat_bib]
+
+
 ### 2011 ###
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
@@ -135,6 +144,7 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2012brat_bib]: stenetorp2012brat.bib.txt
 [stenetorp2011almost]: stenetorp2011almost.pdf
 [stenetorp2011almost_slides]: presentations/stenetorp2011almost/presentation.html
 [stenetorp2011almost_poster]: stenetorp2011almost_poster.pdf
