@@ -131,7 +131,7 @@ involved enrolling a student for four-and-a-half or five years after
 completing upper secondary school (high school for our American readers, it
 should also be noted that Swedish higher education still lacks a first year of
 introductory courses followed by deciding your major, Swedish students have
-instead spent an additional year in upper secondary school and still graduate
+instead spent an additional year in upper secondary school and graduate
 at an age of 19).
 
 ### 2010 ###
