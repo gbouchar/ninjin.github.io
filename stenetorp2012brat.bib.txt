@@ -1,4 +1,4 @@
-@inproceedings{,
+@inproceedings{stenetorp2012brat,
     author      = {Stenetorp, Pontus and Pyysalo, Sampo and Topi\'{c}, Goran
             and Ohta, Tomoko and Ananiadou, Sophia and Tsujii, Jun'ichi},
     title       = {{brat}: a Web-based Tool
