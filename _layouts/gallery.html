@@ -1,0 +1,29 @@
+---
+layout: base
+---
+
+<h1>{{ page.title }}</h1>
+
+<!-- TODO: Serve ourselves? -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+<script src="src/galleria/galleria-1.2.6.min.js"></script>
+
+<script src="src/galleria/plugins/picasa/galleria.picasa.min.js"></script>
+
+<div id="galleria"></div>
+
+<script>
+Galleria.loadTheme('src/galleria/themes/classic/galleria.classic.min.js');
+    $('#galleria').galleria({
+        width: 800,
+        height: 600,
+        picasa: 'useralbum:pontus.stenetorp/photo',
+        picasaOptions: {
+            imageSize: 'big',
+            description: true
+            }
+    });
+</script>
+
+{{ content }}
