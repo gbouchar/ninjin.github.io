@@ -8,6 +8,7 @@
     month       = {April},
     year        = {2012},
     address     = {Avignon, France},
-    publisher   = {Association for Computational Linguistics},
-    note        = {(to appear)},
+    publisher   = {European Chapter of the Association
+            for Computational Linguistics},
+    note        = {to appear},
 }

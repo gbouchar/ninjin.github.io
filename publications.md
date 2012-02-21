@@ -33,12 +33,12 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 ### 2012 ###
 
-* *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić , Tomoko Ohta,
+* *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Tomoko Ohta,
     Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
     for NLP-Assisted Text Annotation**. *In Proceedings of the Demonstrations
-    Sessions at EACL 2012*, Avignon, France, April 2012. *(to appear)*
+    Sessions at EACL 2012*, Avignon, France, April 2012. European Chapter of
+    the Association for Computational Linguistics. *(to appear)*
     [![BibTeX][bibtex_icon]][stenetorp2012brat_bib]
-
 
 ### 2011 ###
 
@@ -106,6 +106,14 @@ Since non-peer-reviewed papers doesn't count as a prior publication material
 from these papers may make it into papers submitted to international venues as
 a partial contribution if the domestic organisers allow for this.
 
+### 2012 ###
+
+* *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Sophia Ananiadou
+    and Jun'ichi Tsujii. **stav: text annotation visualiser**. *In Proceedings
+    of NLP2012*, Hiroshima, Japan, March 2012. Japanese Association for
+    Natural Language Processing. *(to appear)*
+    [![BibTeX][bibtex_icon]][stenetorp2012stav_bib]
+
 ### 2011 ###
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Sophia Ananiadou and Jun'ichi Tsujii.
@@ -145,6 +153,7 @@ at an age of 19).
 
 <!-- Publication and BibTeX links -->
 [stenetorp2012brat_bib]: stenetorp2012brat.bib.txt
+[stenetorp2012stav_bib]: stenetorp2012stav.bib.txt
 [stenetorp2011almost]: stenetorp2011almost.pdf
 [stenetorp2011almost_slides]: presentations/stenetorp2011almost/presentation.html
 [stenetorp2011almost_poster]: stenetorp2011almost_poster.pdf
