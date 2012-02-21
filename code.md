@@ -33,6 +33,11 @@ running myself.
     for the BioNLP 2011 Shared Task but has been used to visualise other kinds
     of annotations such as semantic frames and dependency structures.
 
+* [**brat**][brat] (brat rapid annotation tool) web-based annotation tool
+    based on the visualisation capabilities of stav. Used in-house at Tsujii
+    Laboratory and also by several external groups.
+
+[brat]: http://brat.nlplab.org
 [publications]: /publications.html
 [github_ninjin]: https://github.com/ninjin
 [simsem]: https://github.com/ninjin/simsem
