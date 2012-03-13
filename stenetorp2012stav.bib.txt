@@ -1,5 +1,5 @@
 @inproceedings{stenetorp2012stav,
-    author      = {Stenetorp, Pontus and Pyysalo, Sampo and Topi\'{c}, Goran
+    author      = {Stenetorp, Pontus and Topi\'{c}, Goran and Pyysalo, Sampo
             and Ananiadou, Sophia and Tsujii, Jun'ichi},
     title       = {{stav}: text annotation visualiser},
     booktitle   = {Proceedings of NLP2012},
@@ -7,5 +7,4 @@
     year        = {2012},
     address     = {Hiroshima, Japan},
     publisher   = {Japanese Association for Natural Language Processing},
-    note        = {to appear},
 }
