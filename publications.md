@@ -113,6 +113,7 @@ a partial contribution if the domestic organisers allow for this.
     of NLP2012*, Hiroshima, Japan, March 2012. Japanese Association for
     Natural Language Processing.
     [![Local PDF][local_pdf_icon]][stenetorp2012stav]
+    [![Poster][poster_icon]][stenetorp2012stav_poster]
     [![BibTeX][bibtex_icon]][stenetorp2012stav_bib]
 
 ### 2011 ###
@@ -155,6 +156,7 @@ at an age of 19).
 <!-- Publication and BibTeX links -->
 [stenetorp2012brat_bib]: stenetorp2012brat.bib.txt
 [stenetorp2012stav]: stenetorp2012stav.pdf
+[stenetorp2012stav_poster]: stenetorp2012stav_poster.pdf
 [stenetorp2012stav_bib]: stenetorp2012stav.bib.txt
 [stenetorp2011almost]: stenetorp2011almost.pdf
 [stenetorp2011almost_slides]: presentations/stenetorp2011almost/presentation.html
