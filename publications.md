@@ -37,7 +37,9 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
     for NLP-Assisted Text Annotation**. *In Proceedings of the Demonstrations
     Sessions at EACL 2012*, Avignon, France, April 2012. European Chapter of
-    the Association for Computational Linguistics. *(to appear)*
+    the Association for Computational Linguistics.
+    [![External PDF][external_pdf_icon]][stenetorp2012brat_pdf]
+    [![Local PDF][local_pdf_icon]][stenetorp2012brat_pdf_local]
     [![BibTeX][bibtex_icon]][stenetorp2012brat_bib]
 
 ### 2011 ###
@@ -154,7 +156,9 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
-[stenetorp2012brat_bib]: stenetorp2012brat.bib.txt
+[stenetorp2012brat_bib]: http://aclweb.org/anthology/E/E12/E12-2021.bib
+[stenetorp2012brat_pdf]: http://aclweb.org/anthology/E/E12/E12-2021.pdf
+[stenetorp2012brat_pdf_local]: stenetorp2012brat.pdf
 [stenetorp2012stav]: stenetorp2012stav.pdf
 [stenetorp2012stav_poster]: stenetorp2012stav_poster.pdf
 [stenetorp2012stav_bib]: stenetorp2012stav.bib.txt
