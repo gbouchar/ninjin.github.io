@@ -7,24 +7,41 @@ cmeta:          "Homepage of your run-of-the-mill Ph.D. student in
                 and your occasional rant."
 ---
 
-My name is Pontus Stenetorp, I am a second year Ph.D. student at the [Aizawa
-Laboratory][aizawa] at [The University of Tokyo][todai] in Tokyo, Japan. To
-the right is a not-so-pleasing picture of me and my dog (she looks better than
-me on this occasion).
-
-My research interests is primarily in the domain of Biomedical Natural
-Language Processing (BioNLP), but I also have a great deal of interest in
-evolutionary linguistics, in particular in relation to changes in vocabulary.
-If you are interested you can have a glance at my hopefully growing [list of
-publications][publications].
+My name is Pontus Stenetorp, I am a third year Ph.D. student at the [Aizawa
+Laboratory][aizawa] at the [University of Tokyo][todai].
+To the right is a not-so-pleasing picture of me and my dog (she looks better
+than me on this occasion).
 
 I was raised in [a land of snow and beautiful summers][sweden] in a [small
 town that most people have never heard of][lindesberg] (and for good reasons),
-attended [Kungliga Tekniska högskolan][kth] (The Royal Institute of
-Technology) in Stockholm and received the degree of Master in Science and
-Engineering in Computer Science.
+attended [Kungliga Tekniska högskolan][kth] (Royal Institute of Technology) in
+Stockholm and received the degree of Master in Science and Engineering in
+Computer Science in 2010.
+After my graduation I joined the [Tsujii Laboratory][tsujii] at the
+[University of Tokyo][todai] and was a member until the official closing of
+the lab in 2011.
 
-During what spare time I have left, I enjoy tinkering with computers, producing
+The topic of my research is almost solely [Natural Language Processing][nlp]
+(NLP), which is the task of processing text from sources such as newspapers,
+blogs, etc. using computers.
+[Carl Sagan][sagan] once said that writing allows humans to transfer
+knowledge between individuals across time and space, a feat which is truly
+incredible.
+We humans describe our experiences in words, a form computers still have
+difficulties to grasp due to it's frequently ambiguous nature, I thus see my
+line of research as an attempt to tap into this vast source of knowledge.
+
+As with most researchers I have several topics of interests in my field such
+as Information Extraction (IE), computational lexical semantics and
+extrinsic/intrinsic evaluation of NLP systems.
+I am also active in the sub-field of Biomedical Natural Language Processing
+(BioNLP) which I find to be an interesting application of NLP techniques.
+On the side I dabble in and read a wide array of topics such as evolutionary
+linguistics, computer security.
+If you share any of my interests you may want to have a glance at my hopefully
+growing [list of publications][publications].
+
+During what spare time I have left after, I enjoy tinkering with computers, producing
 code for fun, [hacking on an operating system][freebsd], biking, traveling and
 photography. My [Erdős number][erdos] is 5 (Me -> J. J. Li -> T. Kowalski ->
 P. Jipsen -> Z. Tuza -> P. Erdős).
@@ -46,6 +63,9 @@ P. Jipsen -> Z. Tuza -> P. Erdős).
 [freebsd]:      http://www.freebsd.org/
 [kth]:          http://www.kth.se/?l=en_UK
 [lindesberg]:   http://en.wikipedia.org/wiki/Lindesberg
+[nlp]:          https://en.wikipedia.org/wiki/Natural_language_processing
 [publications]: /publications.html
+[sagan]:        https://en.wikipedia.org/wiki/Carl_Sagan
 [sweden]:       http://en.wikipedia.org/wiki/Sweden
+[tsujii]:       http://www.nactem.ac.uk/tsujii/
 [todai]:        http://www.u-tokyo.ac.jp/index_e.html
