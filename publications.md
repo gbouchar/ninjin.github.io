@@ -44,7 +44,10 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
     for NLP-Assisted Text Annotation**. *In Proceedings of the Demonstrations
     Sessions at EACL 2012*, Avignon, France, April 2012. European Chapter of
-    the Association for Computational Linguistics. *(to appear)*
+    the Association for Computational Linguistics.
+    [![External PDF][external_pdf_icon]][stenetorp2012brat]
+    [![Local PDF][local_pdf_icon]][stenetorp2012brat_local]
+    [![Poster][poster_icon]][stenetorp2012brat_poster]
     [![BibTeX][bibtex_icon]][stenetorp2012brat_bib]
 
 ### 2011 ###
@@ -118,7 +121,9 @@ a partial contribution if the domestic organisers allow for this.
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Sophia Ananiadou
     and Jun'ichi Tsujii. **stav: text annotation visualiser**. *In Proceedings
     of NLP2012*, Hiroshima, Japan, March 2012. Japanese Association for
-    Natural Language Processing. *(to appear)*
+    Natural Language Processing.
+    [![Local PDF][local_pdf_icon]][stenetorp2012stav]
+    [![Poster][poster_icon]][stenetorp2012stav_poster]
     [![BibTeX][bibtex_icon]][stenetorp2012stav_bib]
 
 ### 2011 ###
@@ -159,7 +164,12 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
-[stenetorp2012brat_bib]: stenetorp2012brat.bib.txt
+[stenetorp2012brat]: http://aclweb.org/anthology/E/E12/E12-2021.pdf
+[stenetorp2012brat_poster]: stenetorp2012brat_poster.pdf
+[stenetorp2012brat_bib]: http://aclweb.org/anthology/E/E12/E12-2021.bib
+[stenetorp2012brat_local]: stenetorp2012brat.pdf
+[stenetorp2012stav]: stenetorp2012stav.pdf
+[stenetorp2012stav_poster]: stenetorp2012stav_poster.pdf
 [stenetorp2012stav_bib]: stenetorp2012stav.bib.txt
 [stenetorp2011almost]: stenetorp2011almost.pdf
 [stenetorp2011almost_slides]: presentations/stenetorp2011almost/presentation.html

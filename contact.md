@@ -42,17 +42,14 @@ public key along with your message so that we can save a round-trip.
 ## University of Tokyo (UT) ##
 
 My main desk is at the [UT Hongo campus][gmap_hongo_campus], the address and
-phone/fax number can be found below and here is a link to the [official UT
-hongo access homepage][ut_hongo_access].
-
-    Phone:  +81-3-5803-1697
-    Fax:    +81-3-5802-8872
+can be found below and here is a link to the [official UT hongo access
+homepage][ut_hongo_access].
 
     Address:
-        Room 615, Faculty of Science Building 7
+        Room 102C1, Faculty of Engineering Building 2
         The University of Tokyo, Hongo 7-3-1
         Bunkyo-ku, Tokyo
-        113-0033 Japan 
+        113-8656 Japan
 
 [gmap_hongo_campus]: http://maps.google.com/?ll=35.711726,139.761951&spn=0.012405,0.016673&z=16&vpsrc=6
 [ut_hongo_access]: http://www.u-tokyo.ac.jp/campusmap/map01_02_e.html
