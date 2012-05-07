@@ -33,6 +33,13 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 ### 2012 ###
 
+* Sampo Pyysalo, *Pontus Stenetorp*, Tomoko Ohta, Jin-dong Kim,
+    Sophia Ananiadou.
+    **New Resources and Perspectives for Biomedical Event Extraction**.
+    *In Proceedings of the BioNLP 2012 Workshop*,
+    Montreal, Canada, June 2012. Association for Computational Linguistics.
+    (to appear)
+
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Tomoko Ohta,
     Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
     for NLP-Assisted Text Annotation**. *In Proceedings of the Demonstrations
