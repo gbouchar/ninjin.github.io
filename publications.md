@@ -33,7 +33,15 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 ### 2012 ###
 
-* Sampo Pyysalo, *Pontus Stenetorp*, Tomoko Ohta, Jin-dong Kim,
+* *Pontus Stenetorp*, Sampo Pyysalo, Tomoko Ohta, Sophia Ananiadou and
+    Jun'ichi Tsujii.
+    **Bridging the Gap Between Scope-based and Event-based
+    Negation/Speculation Annotations: A Bridge Not Too Far**.
+    *In Proceedings of the ExProM 2012 Workshop*,
+    Jeju, Korea, July 2012. Association for Computational Linguistics.
+    (to appear)
+
+* Sampo Pyysalo, *Pontus Stenetorp*, Tomoko Ohta, Jin-dong Kim and
     Sophia Ananiadou.
     **New Resources and Perspectives for Biomedical Event Extraction**.
     *In Proceedings of the BioNLP 2012 Workshop*,
