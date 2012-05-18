@@ -65,4 +65,4 @@ homepage][nii_access].
         Chiyoda-ku, Tokyo
         101-8430 Japan
 
-[nii_access]: http://www.nii.ac.jp/en/access/
+[nii_access]: http://www.nii.ac.jp/en/about/access/
