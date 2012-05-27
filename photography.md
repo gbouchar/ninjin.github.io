@@ -12,7 +12,7 @@ cmeta:  "Photographs from journeys and experiences, sights that I feel
 Photography is the only way I feel comfortable to express myself artistically.
 Sure, I can write, somewhat, but drawing, dance, woodwork and the likes has
 never been my strong points.
-I am a happy amateur at best, a complete clot at worst.
+I am a happy amateur at best, a complete clutz at worst.
 On this page I try to share the least bad of my work, I also admittedly have
 an enormous back-log of pictures to develop digitally.
 
