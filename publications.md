@@ -46,7 +46,6 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     **New Resources and Perspectives for Biomedical Event Extraction**.
     *In Proceedings of the BioNLP 2012 Workshop*,
     Montreal, Canada, June 2012. Association for Computational Linguistics.
-    (to appear)
     [![External PDF][external_pdf_icon]][pyysalo2012new]
     [![BibTeX][bibtex_icon]][pyysalo2012new_bib]
 
