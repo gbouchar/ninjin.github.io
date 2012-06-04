@@ -47,6 +47,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the BioNLP 2012 Workshop*,
     Montreal, Canada, June 2012. Association for Computational Linguistics.
     (to appear)
+    [![External PDF][external_pdf_icon]][pyysalo2012new]
+    [![BibTeX][bibtex_icon]][pyysalo2012new_bib]
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Tomoko Ohta,
     Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
@@ -172,6 +174,8 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[pyysalo2012new]: http://aclweb.org/anthology/W/W12/W12-2412.pdf
+[pyysalo2012new_bib]: http://aclweb.org/anthology/W/W12/W12-2412.bib
 [stenetorp2012brat]: http://aclweb.org/anthology/E/E12/E12-2021.pdf
 [stenetorp2012brat_poster]: stenetorp2012brat_poster.pdf
 [stenetorp2012brat_bib]: http://aclweb.org/anthology/E/E12/E12-2021.bib
