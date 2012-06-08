@@ -47,6 +47,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the BioNLP 2012 Workshop*,
     Montreal, Canada, June 2012. Association for Computational Linguistics.
     [![External PDF][external_pdf_icon]][pyysalo2012new]
+    [![Poster][poster_icon]][pyysalo2012new_poster]
     [![BibTeX][bibtex_icon]][pyysalo2012new_bib]
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Tomoko Ohta,
@@ -174,6 +175,7 @@ at an age of 19).
 
 <!-- Publication and BibTeX links -->
 [pyysalo2012new]: http://aclweb.org/anthology/W/W12/W12-2412.pdf
+[pyysalo2012new_poster]: pyysalo12new_poster.pdf
 [pyysalo2012new_bib]: http://aclweb.org/anthology/W/W12/W12-2412.bib
 [stenetorp2012brat]: http://aclweb.org/anthology/E/E12/E12-2021.pdf
 [stenetorp2012brat_poster]: stenetorp2012brat_poster.pdf
