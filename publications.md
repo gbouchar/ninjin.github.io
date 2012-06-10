@@ -45,7 +45,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     Sophia Ananiadou.
     **New Resources and Perspectives for Biomedical Event Extraction**.
     *In Proceedings of the BioNLP 2012 Workshop*,
-    Montreal, Canada, June 2012. Association for Computational Linguistics.
+    Montreal, Canada, June 2012. North American Chapter of the Association for
+    Computational Linguistics.
     [![External PDF][external_pdf_icon]][pyysalo2012new]
     [![Poster][poster_icon]][pyysalo2012new_poster]
     [![BibTeX][bibtex_icon]][pyysalo2012new_bib]
