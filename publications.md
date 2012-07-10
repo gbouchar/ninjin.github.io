@@ -54,8 +54,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Tomoko Ohta,
     Sophia Ananiadou and Jun'ichi Tsujii. **brat: a Web-based Tool
     for NLP-Assisted Text Annotation**. *In Proceedings of the Demonstrations
-    Sessions at EACL 2012*, Avignon, France, April 2012. European Chapter of
-    the Association for Computational Linguistics.
+    Sessions at EACL 2012*, Avignon, France, April 2012. Association for
+    Computational Linguistics.
     [![External PDF][external_pdf_icon]][stenetorp2012brat]
     [![Local PDF][local_pdf_icon]][stenetorp2012brat_local]
     [![Poster][poster_icon]][stenetorp2012brat_poster]
