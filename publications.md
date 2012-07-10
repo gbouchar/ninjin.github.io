@@ -39,7 +39,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     Negation/Speculation Annotations: A Bridge Not Too Far**.
     *In Proceedings of the ExProM 2012 Workshop*,
     Jeju, Korea, July 2012. Association for Computational Linguistics.
-    (to appear)
+    [![External PDF][external_pdf_icon]][stenetorp2012bridging]
+    [![BibTeX][bibtex_icon]][stenetorp2012bridging_bib]
 
 * Sampo Pyysalo, *Pontus Stenetorp*, Tomoko Ohta, Jin-dong Kim and
     Sophia Ananiadou.
@@ -174,6 +175,8 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
+[stenetorp2012bridging_bib]: http://aclweb.org/anthology/W/W12/W12-3806.bib
 [pyysalo2012new]: http://aclweb.org/anthology/W/W12/W12-2412.pdf
 [pyysalo2012new_poster]: pyysalo12new_poster.pdf
 [pyysalo2012new_bib]: http://aclweb.org/anthology/W/W12/W12-2412.bib
