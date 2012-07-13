@@ -40,6 +40,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the ExProM 2012 Workshop*,
     Jeju, Korea, July 2012. Association for Computational Linguistics.
     [![External PDF][external_pdf_icon]][stenetorp2012bridging]
+    [![Slides][slides_icon]][stenetorp2012bridging_slides]
     [![BibTeX][bibtex_icon]][stenetorp2012bridging_bib]
 
 * Sampo Pyysalo, *Pontus Stenetorp*, Tomoko Ohta, Jin-dong Kim and
@@ -176,6 +177,7 @@ at an age of 19).
 
 <!-- Publication and BibTeX links -->
 [stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
+[stenetorp2012bridging_slides]: stenetorp2012bridging_pres.pdf
 [stenetorp2012bridging_bib]: http://aclweb.org/anthology/W/W12/W12-3806.bib
 [pyysalo2012new]: http://aclweb.org/anthology/W/W12/W12-2412.pdf
 [pyysalo2012new_poster]: pyysalo12new_poster.pdf
