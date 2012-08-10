@@ -40,6 +40,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the 5th International Symposium on Semantic Mining in
     Biomedicine*,
     Zürich, Switzerland, September 2012.
+    [![BibTeX][bibtex_icon]][stenetorp2012size_bib]
     (to appear)
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Tomoko Ohta, Sophia Ananiadou and
@@ -185,6 +186,7 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2012size_bib]: stenetorp2012size.bib.txt
 [stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
 [stenetorp2012bridging_slides]: stenetorp2012bridging_pres.pdf
 [stenetorp2012bridging_bib]: http://aclweb.org/anthology/W/W12/W12-3806.bib
