@@ -33,6 +33,15 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 ### 2012 ###
 
+* *Pontus Stenetorp*, Hubert Soyer, Sampo Pyysalo, Sophia Ananiadou and
+    Takashi Chikayama.
+    **Size (and Domain) Matters: Evaluating Semantic Word Space
+    Representations for Biomedical Text**.
+    *In Proceedings of the 5th International Symposium on Semantic Mining in
+    Biomedicine*,
+    Zürich, Switzerland, September 2012.
+    (to appear)
+
 * *Pontus Stenetorp*, Sampo Pyysalo, Tomoko Ohta, Sophia Ananiadou and
     Jun'ichi Tsujii.
     **Bridging the Gap Between Scope-based and Event-based
