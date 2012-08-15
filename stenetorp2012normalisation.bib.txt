@@ -1,0 +1,9 @@
+@inproceedings{stenetorp2012normalisation,
+    author      = {Stenetorp, Pontus and Pyysalo, Sampo and Topi\'{c}, Goran
+        and Ananiadou, Sophia and Aizawa, Akiko},
+    title       = {Normalisation with the \textsc{brat} rapid annotation tool},
+    year        = {2012},
+    booktitle   = {Proceedings of the 5th International Symposium on
+        Semantic Mining in Biomedicine},
+    note        = {to appear},
+}

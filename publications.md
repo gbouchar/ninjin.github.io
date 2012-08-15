@@ -33,6 +33,15 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 ### 2012 ###
 
+* *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Sophia Ananiadou and
+    Aizawa Akiko.
+    **Normalisation with the Brat Rapid Annotation Tool**.
+    *In Proceedings of the 5th International Symposium on Semantic Mining in
+    Biomedicine*,
+    Zürich, Switzerland, September 2012.
+    [![BibTeX][bibtex_icon]][stenetorp2012normalisation_bib]
+    (to appear)
+
 * *Pontus Stenetorp*, Hubert Soyer, Sampo Pyysalo, Sophia Ananiadou and
     Takashi Chikayama.
     **Size (and Domain) Matters: Evaluating Semantic Word Space
@@ -186,6 +195,7 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2012normalisation_bib]: stenetorp2012normalisation.bib.txt
 [stenetorp2012size_bib]: stenetorp2012size.bib.txt
 [stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
 [stenetorp2012bridging_slides]: stenetorp2012bridging_pres.pdf
