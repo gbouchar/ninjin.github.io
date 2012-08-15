@@ -34,7 +34,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 ### 2012 ###
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Sophia Ananiadou and
-    Aizawa Akiko.
+    Akiko Aizawa.
     **Normalisation with the Brat Rapid Annotation Tool**.
     *In Proceedings of the 5th International Symposium on Semantic Mining in
     Biomedicine*,
