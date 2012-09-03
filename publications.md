@@ -39,8 +39,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the 5th International Symposium on Semantic Mining in
     Biomedicine*,
     Zürich, Switzerland, September 2012.
+    [![External PDF][external_pdf_icon]][stenetorp2012normalisation]
     [![BibTeX][bibtex_icon]][stenetorp2012normalisation_bib]
-    (to appear)
 
 * *Pontus Stenetorp*, Hubert Soyer, Sampo Pyysalo, Sophia Ananiadou and
     Takashi Chikayama.
@@ -49,8 +49,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the 5th International Symposium on Semantic Mining in
     Biomedicine*,
     Zürich, Switzerland, September 2012.
+    [![External PDF][external_pdf_icon]][stenetorp2012size]
     [![BibTeX][bibtex_icon]][stenetorp2012size_bib]
-    (to appear)
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Tomoko Ohta, Sophia Ananiadou and
     Jun'ichi Tsujii.
@@ -195,7 +195,9 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=97
 [stenetorp2012normalisation_bib]: stenetorp2012normalisation.bib.txt
+[stenetorp2012size]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=52
 [stenetorp2012size_bib]: stenetorp2012size.bib.txt
 [stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
 [stenetorp2012bridging_slides]: stenetorp2012bridging_pres.pdf
