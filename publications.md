@@ -50,6 +50,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     Biomedicine*,
     Zürich, Switzerland, September 2012.
     [![External PDF][external_pdf_icon]][stenetorp2012size]
+    [![Slides][slides_icon]][stenetorp2012size_slides]
     [![BibTeX][bibtex_icon]][stenetorp2012size_bib]
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Tomoko Ohta, Sophia Ananiadou and
@@ -198,6 +199,7 @@ at an age of 19).
 [stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=97
 [stenetorp2012normalisation_bib]: stenetorp2012normalisation.bib.txt
 [stenetorp2012size]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=52
+[stenetorp2012size_slides]: stenetorp2012size_pres.pdf
 [stenetorp2012size_bib]: stenetorp2012size.bib.txt
 [stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
 [stenetorp2012bridging_slides]: stenetorp2012bridging_pres.pdf
