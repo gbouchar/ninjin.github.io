@@ -150,6 +150,14 @@ a partial contribution if the domestic organisers allow for this.
 
 ### 2012 ###
 
+* Panot Chaimongkol, *Pontus Stenetorp* and Akiko Aizawa. **Utilising
+    Bilingual Lexical Resources for Technical Term Extraction**. *In
+    Proceedings of The 26th Annual Conference of the Japanese Society for
+    Artificial Intelligence*, Yamaguchi, Japan, June 2012. Japanese Society
+    for Artificial Intelligence.
+    [![External PDF][external_pdf_icon]][chaimongkol2012utilising]
+    [![BibTeX][bibtex_icon]][chaimongkol2012utilising_bib]
+
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Sophia Ananiadou
     and Jun'ichi Tsujii. **stav: text annotation visualiser**. *In Proceedings
     of NLP2012*, Hiroshima, Japan, March 2012. Japanese Association for
@@ -196,6 +204,8 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[chaimongkol2012utilising]: https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf
+[chaimongkol2012utilising_bib]: panot2012utilising.bib.txt
 [stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=97
 [stenetorp2012normalisation_bib]: stenetorp2012normalisation.bib.txt
 [stenetorp2012size]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=52
