@@ -4,6 +4,6 @@
     title       = {Almost Total Recall: Semantic Category Disambiguation
         Using Large Lexical Resources and Approximate String Matching},
     year        = {2011},
-    booktitle   = {In Proceedings of the Fourth International Symposium
+    booktitle   = {Proceedings of the Fourth International Symposium
         on Languages in Biology and Medicine},
 }
