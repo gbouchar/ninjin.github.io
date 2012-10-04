@@ -206,9 +206,9 @@ at an age of 19).
 <!-- Publication and BibTeX links -->
 [chaimongkol2012utilising]: https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf
 [chaimongkol2012utilising_bib]: panot2012utilising.bib.txt
-[stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=97
+[stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/17/12_Normalisation_with_the_BRAT_rapid_annotation_tool.pdf
 [stenetorp2012normalisation_bib]: stenetorp2012normalisation.bib.txt
-[stenetorp2012size]: http://www.zora.uzh.ch/64476/1/smbm12.pdf#page=52
+[stenetorp2012size]: http://www.zora.uzh.ch/64476/11/06_Size_and_Domain_matters.pdf
 [stenetorp2012size_slides]: stenetorp2012size_pres.pdf
 [stenetorp2012size_bib]: stenetorp2012size.bib.txt
 [stenetorp2012bridging]: http://aclweb.org/anthology/W/W12/W12-3806.pdf
