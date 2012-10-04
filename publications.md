@@ -152,7 +152,7 @@ a partial contribution if the domestic organisers allow for this.
 
 * Panot Chaimongkol, *Pontus Stenetorp* and Akiko Aizawa. **Utilising
     Bilingual Lexical Resources for Technical Term Extraction**. *In
-    Proceedings of The 26th Annual Conference of the Japanese Society for
+    Proceedings of the 26th Annual Conference of the Japanese Society for
     Artificial Intelligence*, Yamaguchi, Japan, June 2012. Japanese Society
     for Artificial Intelligence.
     [![External PDF][external_pdf_icon]][chaimongkol2012utilising]
