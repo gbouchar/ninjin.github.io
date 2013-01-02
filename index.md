@@ -9,8 +9,8 @@ cmeta:          "Homepage of your run-of-the-mill Ph.D. student in
 
 My name is Pontus Stenetorp, I am a third year Ph.D. student at the [Aizawa
 Laboratory][aizawa] at the [University of Tokyo][todai].
-To the right is a not-so-pleasing picture of me and my dog (she looks better
-than me on this occasion).
+To the right is a not-so-pleasing picture of me and my beloved late dog (she
+looked a lot better than me that day).
 
 I was raised in [a land of snow and beautiful summers][sweden] in a [small
 town that most people have never heard of][lindesberg] (and for good reasons),
