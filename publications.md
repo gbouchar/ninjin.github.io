@@ -203,6 +203,12 @@ at an age of 19).
     [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
+### 2013 ###
+
+* *Pontus Stenetorp*. **On the Applicability and Representation of Lexical
+    Prior Knowledge**. Doctor of Philosophy (Ph.D.) Thesis, University of
+    Tokyo, March 2013.
+
 <!-- Publication and BibTeX links -->
 [chaimongkol2012utilising]: https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf
 [chaimongkol2012utilising_bib]: panot2012utilising.bib.txt
