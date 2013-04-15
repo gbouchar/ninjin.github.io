@@ -39,11 +39,24 @@ public key along with your message so that we can save a round-trip.
 
 [pgp_key]: pontus_stenetorp.pub.txt
 
+## National Institute of Informatics (NII) ##
+
+My primary desk is at NII, here is the [official NII access
+homepage][nii_access].
+
+    Address:
+        Room 1318, National Institute of Informatics
+        2-1-2 Hitotsubashi
+        Chiyoda-ku, Tokyo
+        101-8430 Japan
+
+[nii_access]: http://www.nii.ac.jp/en/about/access/
+
 ## University of Tokyo (UT) ##
 
-My main desk is at the [UT Hongo campus][gmap_hongo_campus], the address and
-can be found below and here is a link to the [official UT hongo access
-homepage][ut_hongo_access].
+I have a secondary desk at the [UT Hongo campus][gmap_hongo_campus], the
+address and can be found below and here is a link to the [official UT hongo
+access homepage][ut_hongo_access].
 
     Address:
         Room 102C1, Faculty of Engineering Building 2
@@ -51,18 +64,5 @@ homepage][ut_hongo_access].
         Bunkyo-ku, Tokyo
         113-8656 Japan
 
-[gmap_hongo_campus]: http://maps.google.com/?ll=35.711726,139.761951&spn=0.012405,0.016673&z=16&vpsrc=6
+[gmap_hongo_campus]: http://goo.gl/maps/2jGxp
 [ut_hongo_access]: http://www.u-tokyo.ac.jp/campusmap/map01_02_e.html
-
-## National Institute of Informatics (NII) ##
-
-I also have a secondary desk at NII, here is the [official NII access
-homepage][nii_access].
-
-    Address:
-        Room 1610, National Institute of Informatics
-        2-1-2 Hitotsubashi
-        Chiyoda-ku, Tokyo
-        101-8430 Japan
-
-[nii_access]: http://www.nii.ac.jp/en/about/access/
