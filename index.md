@@ -8,12 +8,16 @@ cmeta:          "Homepage of your run-of-the-mill Ph.D. student in
 ---
 
 My name is Pontus Stenetorp (well, technically my name is Pontus Lars Erik
-Saito Stenetorp or 西東　ステネートルプ　ポントス　ラース　エリック if you
-prefer, but buy me a drink some time and I will tell you all about how I ended
-up with possibly the longest name in Japan and what it does to your average
-company customer database), I am a special project research associate at the
-[National Institute of Informatics][nii] and a visiting researcher at the
-[University of Tokyo][todai].
+Saito Stenetorp or
+<ruby>
+    <rb>西</rb><rp>(</rp><rt>さい</rt><rp>)</rp>
+    <rb>東</rb><rp>(</rp><rt>とう</rt><rp>)</rp>
+</ruby>　ステネートルプ　ポントス　ラース　エリック
+if you prefer, but buy me a drink some time and I will tell you all about how
+I ended up with possibly the longest name in Japan and what it does to your
+average company customer database), I am a special project research associate
+at the [National Institute of Informatics][nii] and a visiting researcher at
+the [University of Tokyo][todai].
 To the right is a not-so-pleasing picture of me and my beloved late dog (she
 looked a lot better than me that day).
 
