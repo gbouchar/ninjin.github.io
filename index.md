@@ -10,8 +10,8 @@ cmeta:          "Homepage of your run-of-the-mill Ph.D. student in
 My name is Pontus Stenetorp (well, technically my name is Pontus Lars Erik
 Saito Stenetorp or
 <ruby>
-    <rb>西</rb><rp>(</rp><rt>さい</rt><rp>)</rp>
-    <rb>東</rb><rp>(</rp><rt>とう</rt><rp>)</rp>
+    <rb>西</rb><rp>(</rp><rt>サイ</rt><rp>)</rp>
+    <rb>東</rb><rp>(</rp><rt>トウ</rt><rp>)</rp>
 </ruby>　ステネートルプ　ポントス　ラース　エリック
 if you prefer, but buy me a drink some time and I will tell you all about how
 I ended up with possibly the longest name in Japan and what it does to your
