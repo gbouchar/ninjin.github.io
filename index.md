@@ -18,8 +18,9 @@ I ended up with possibly the longest name in Japan and what it does to your
 average company customer database), I am a special project research associate
 at the [National Institute of Informatics][nii] and a visiting researcher at
 the [University of Tokyo][todai].
-To the right is a not-so-pleasing picture of me and my beloved late dog (she
-looked a lot better than me that day).
+To the right is a portrait of me from the "Artfully Connected" exhibition with
+an eye-painting by [Hikaru Cho][cho] on the theme "Let's see things through
+someone else's eye".
 
 I was raised in [a land of snow and beautiful summers][sweden] in a [small
 town that most people have never heard of][lindesberg] (and for good reasons),
@@ -58,6 +59,7 @@ photography. My [Erdős number][erdos] is 5 (Me -> J. J. Li -> T. Kowalski ->
 P. Jipsen -> Z. Tuza -> P. Erdős).
 
 [aizawa]:       http://www-al.nii.ac.jp/en/index.html
+[cho]:          https://flavors.me/chooosan
 [erdos]:        http://en.wikipedia.org/wiki/Erd%C5%91s_number
 [freebsd]:      http://www.freebsd.org/
 [kth]:          http://www.kth.se/?l=en_UK
