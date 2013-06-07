@@ -57,7 +57,7 @@ linguistics, computer security.
 If you share any of my interests you may want to have a glance at my hopefully
 growing [list of publications][publications].
 
-During what spare time I have left after, I enjoy producing code for fun
+During what little spare time I have left, I enjoy producing code for fun
 ("hacking"), biking, traveling and photography.
 My [Erdős number][erdos] is 5 (Me -> J. J. Li -> T. Kowalski -> P. Jipsen
 -> Z. Tuza -> P. Erdős).
