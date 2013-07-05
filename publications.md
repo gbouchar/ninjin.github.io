@@ -194,6 +194,12 @@ introductory courses followed by deciding your major, Swedish students have
 instead spent an additional year in upper secondary school and graduate
 at an age of 19).
 
+### 2013 ###
+
+* *Pontus Stenetorp*. **On the Applicability and Representation of Lexical
+    Prior Knowledge**. Doctor of Philosophy (Ph.D.) Thesis, University of
+    Tokyo, March 2013.
+
 ### 2010 ###
 
 * *Pontus Stenetorp*. **Automated Extraction of Swedish Neologisms using a
@@ -202,12 +208,6 @@ at an age of 19).
     [![External PDF][external_pdf_icon]][stenetorp2010automated]
     [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
-
-### 2013 ###
-
-* *Pontus Stenetorp*. **On the Applicability and Representation of Lexical
-    Prior Knowledge**. Doctor of Philosophy (Ph.D.) Thesis, University of
-    Tokyo, March 2013.
 
 <!-- Publication and BibTeX links -->
 [chaimongkol2012utilising]: https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf
