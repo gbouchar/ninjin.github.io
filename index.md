@@ -53,7 +53,7 @@ the extrinsic/intrinsic evaluation of NLP systems.
 I am also active in the sub-field of Biomedical Natural Language Processing
 (BioNLP) which I find to be an interesting application of NLP techniques.
 On the side I dabble in and read a wide array of topics such as evolutionary
-linguistics, computer security.
+linguistics and computer security.
 If you share any of my interests you may want to have a glance at my hopefully
 growing [list of publications][publications].
 
