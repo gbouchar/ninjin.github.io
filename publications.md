@@ -31,6 +31,15 @@ the sense that the venue does not limit its audience to anything less than the
 global scientific community.
 Unless explicitly stated otherwise these papers have undergone peer-review.
 
+### 2013 ###
+
+* *Pontus Stenetorp*, Wiktoria Golik, Thierry Hamon, Donald C. Comeau,
+    Rezarta Islamaj Doğan, Haibin Liu and W. John Wilbur.
+    **BioNLP Shared Task 2013: Supporting Resources**.
+    *In Proceedings of the BioNLP 2013 Workshop Companion Volume for Shared
+    Task*, Sofia, Bulgaria, August 2013.
+    *(to appear)*
+
 ### 2012 ###
 
 * *Pontus Stenetorp*, Sampo Pyysalo, Goran Topić, Sophia Ananiadou and
