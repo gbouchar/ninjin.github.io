@@ -38,7 +38,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     **BioNLP Shared Task 2013: Supporting Resources**.
     *In Proceedings of the BioNLP 2013 Workshop Companion Volume for Shared
     Task*, Sofia, Bulgaria, August 2013.
-    *(to appear)*
+    [![External PDF][external_pdf_icon]][stenetorp2013supporting]
+    [![BibTeX][bibtex_icon]][stenetorp2013supporting_bib]
 
 ### 2012 ###
 
@@ -219,6 +220,8 @@ at an age of 19).
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
 <!-- Publication and BibTeX links -->
+[stenetorp2013supporting]: http://aclweb.org/anthology/W/W13/W13-2013.pdf
+[stenetorp2013supporting_bib]: http://aclweb.org/anthology/W/W13/W13-2013.bib
 [chaimongkol2012utilising]: https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf
 [chaimongkol2012utilising_bib]: panot2012utilising.bib.txt
 [stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/17/12_Normalisation_with_the_BRAT_rapid_annotation_tool.pdf
