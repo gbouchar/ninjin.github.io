@@ -40,6 +40,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     Task*, Sofia, Bulgaria, August 2013.
     [![External PDF][external_pdf_icon]][stenetorp2013supporting]
     [![BibTeX][bibtex_icon]][stenetorp2013supporting_bib]
+    [![Poster][poster_icon]][stenetorp2013supporting_poster]
 
 ### 2012 ###
 
@@ -222,6 +223,7 @@ at an age of 19).
 <!-- Publication and BibTeX links -->
 [stenetorp2013supporting]: http://aclweb.org/anthology/W/W13/W13-2013.pdf
 [stenetorp2013supporting_bib]: http://aclweb.org/anthology/W/W13/W13-2013.bib
+[stenetorp2013supporting_poster]: stenetorp2013supporting_poster.pdf
 [chaimongkol2012utilising]: https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf
 [chaimongkol2012utilising_bib]: panot2012utilising.bib.txt
 [stenetorp2012normalisation]: http://www.zora.uzh.ch/64476/17/12_Normalisation_with_the_BRAT_rapid_annotation_tool.pdf
