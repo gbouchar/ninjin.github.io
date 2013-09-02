@@ -39,8 +39,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *In Proceedings of the BioNLP 2013 Workshop Companion Volume for Shared
     Task*, Sofia, Bulgaria, August 2013.
     [![External PDF][external_pdf_icon]][stenetorp2013supporting]
-    [![BibTeX][bibtex_icon]][stenetorp2013supporting_bib]
     [![Poster][poster_icon]][stenetorp2013supporting_poster]
+    [![BibTeX][bibtex_icon]][stenetorp2013supporting_bib]
 
 ### 2012 ###
 
