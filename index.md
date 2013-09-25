@@ -13,9 +13,9 @@ Saito Stenetorp or
 </ruby>　ステネートルプ　ポントス　ラース　エリック
 if you prefer, but buy me a drink some time and I will tell you all about how
 I ended up with possibly the longest name in Japan and what it does to your
-average company customer database), I am a special project research associate
-at the [National Institute of Informatics][nii] and a visiting researcher at
-the [University of Tokyo][todai].
+average company customer database), I am a [Japan Society for the Promotion of
+Science Postdoctoral Research Fellow][jsps] at the [Chikayama Tsuruoka
+Laboratory][tsuruoka] at the [University of Tokyo][todai].
 To the right is a portrait of me from the "Artfully Connected" exhibition with
 an eye-painting by [Hikaru Cho][cho] on the theme "Let's see things through
 someone else's eye".
@@ -30,6 +30,8 @@ Tokyo][todai] and was a member until the official closing of the lab in 2012
 and then spent the remainder of my Ph.D. until my graduation in the spring of
 2013 as a member of the [Aizawa Laboratory][aizawa], also at the [University
 of Tokyo][todai].
+Following my graduation I spent six months as a Special Project Research
+Associate at the [National Institute of Informatics][nii].
 
 The topic of my research is almost solely [Natural Language Processing][nlp]
 (NLP), which is the task of processing text from sources such as newspapers,
@@ -70,6 +72,7 @@ pure mathematics paper.
 [deep]:         https://en.wikipedia.org/wiki/Deep_learning
 [erdos]:        https://en.wikipedia.org/wiki/Erd%C5%91s_number
 [freebsd]:      http://www.freebsd.org/
+[jsps]:         http://www.jsps.go.jp/english/
 [kth]:          http://www.kth.se/?l=en_UK
 [lindesberg]:   https://en.wikipedia.org/wiki/Lindesberg
 [nii]:          http://www.nii.ac.jp/en/
@@ -80,3 +83,4 @@ pure mathematics paper.
 [sweden]:       https://en.wikipedia.org/wiki/Sweden
 [todai]:        http://www.u-tokyo.ac.jp/index_e.html
 [tsujii]:       http://www.nactem.ac.uk/tsujii/
+[tsuruoka]:     http://www.logos.t.u-tokyo.ac.jp/
