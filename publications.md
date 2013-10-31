@@ -33,6 +33,12 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 ### 2013 ###
 
+* *Pontus Stenetorp*.
+    **Transition-based Dependency Parsing Using Recursive Neural Networks**.
+    *Deep Learning Workshop at NIPS 2013*, Lake Tahoe, Nevada, USA,
+    December 2013.
+    (*to appear*)
+
 * *Pontus Stenetorp*, Wiktoria Golik, Thierry Hamon, Donald C. Comeau,
     Rezarta Islamaj Doğan, Haibin Liu and W. John Wilbur.
     **BioNLP Shared Task 2013: Supporting Resources**.
@@ -107,8 +113,9 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 * *Pontus Stenetorp*, Sampo Pyysalo, and Jun'ichi Tsujii. **SimSem: Fast
     Approximate String Matching in Relation to Semantic Category
-    Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*, pages 136–145,
-    Portland, Oregon, June 2011. Association for Computational Linguistics.
+    Disambiguation**.  *In Proceedings of the BioNLP 2011 Workshop*,
+    pages 136–145, Portland, Oregon, USA, June 2011.
+    Association for Computational Linguistics.
     [![External PDF][external_pdf_icon]][stenetorp2011simsem]
     [![Poster][poster_icon]][stenetorp2011simsem_poster]
     [![BibTeX][bibtex_icon]][stenetorp2011simsem_bib]
@@ -116,7 +123,7 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 * *Pontus Stenetorp*, Goran Topić , Sampo Pyysalo, Tomoko Ohta, Jin-Dong Kim,
     and Jun'ichi Tsujii. **BioNLP Shared Task 2011: Supporting Resources**.
     *In Proceedings of the BioNLP 2011 Workshop Companion Volume for Shared
-    Task*, pages 112–120, Portland, Oregon, June 2011. Association for
+    Task*, pages 112–120, Portland, Oregon, USA, June 2011. Association for
     Computational Linguistics.
     [![External PDF][external_pdf_icon]][stenetorp2011supporting]
     [![Local PDF][local_pdf_icon]][stenetorp2011supporting_local]
