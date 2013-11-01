@@ -4,5 +4,5 @@
     title       = {Normalisation with the \textsc{brat} rapid annotation tool},
     year        = {2012},
     booktitle   = {Proceedings of the 5th International Symposium on
-        Semantic Mining in Biomedicine},
+        Semantic Mining in Biomedicine}
 }
