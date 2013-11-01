@@ -5,5 +5,4 @@
     year        = {2012},
     booktitle   = {Proceedings of the 5th International Symposium on
         Semantic Mining in Biomedicine},
-    note        = {to appear},
 }
