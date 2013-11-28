@@ -35,8 +35,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 
 * *Pontus Stenetorp*.
     **Transition-based Dependency Parsing Using Recursive Neural Networks**.
-    *Deep Learning Workshop at NIPS 2013*, Lake Tahoe, Nevada, USA,
-    December 2013.
+    *Deep Learning Workshop at the 2013 Conference on Neural Information
+    Processing Systems (NIPS)*, Lake Tahoe, Nevada, USA, December 2013.
     [![Local PDF][local_pdf_icon]][stenetorp2013transition_local]
     [![BibTeX][bibtex_icon]][stenetorp2013transition_bib]
     (*to appear*)
