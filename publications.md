@@ -38,8 +38,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
     *Deep Learning Workshop at the 2013 Conference on Neural Information
     Processing Systems (NIPS)*, Lake Tahoe, Nevada, USA, December 2013.
     [![Local PDF][local_pdf_icon]][stenetorp2013transition_local]
+    [![Poster][poster_icon]][stenetorp2013transition_poster]
     [![BibTeX][bibtex_icon]][stenetorp2013transition_bib]
-    (*to appear*)
 
 * *Pontus Stenetorp*, Wiktoria Golik, Thierry Hamon, Donald C. Comeau,
     Rezarta Islamaj Doğan, Haibin Liu and W. John Wilbur.
@@ -232,6 +232,7 @@ at an age of 19).
 <!-- Publication and BibTeX links -->
 [stenetorp2013transition_local]: stenetorp2013transition.pdf
 [stenetorp2013transition_bib]: stenetorp2013transition.bib.txt
+[stenetorp2013transition_poster]: stenetorp2013transition_poster.pdf
 [stenetorp2013supporting]: http://aclweb.org/anthology/W/W13/W13-2013.pdf
 [stenetorp2013supporting_bib]: http://aclweb.org/anthology/W/W13/W13-2013.bib
 [stenetorp2013supporting_poster]: stenetorp2013supporting_poster.pdf

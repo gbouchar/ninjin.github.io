@@ -1,9 +1,9 @@
 @InProceedings{stenetorp2013transition,
     author    = {Stenetorp, Pontus},
     title     = {Transition-based Dependency Parsing Using Recursive Neural Networks},
-    booktitle = {Deep Learning Workshop at NIPS 2013},
+    booktitle = {Deep Learning Workshop at the 2013 Conference on
+        Neural Information Processing Systems (NIPS)},
     address   = {Lake Tahoe, Nevada, USA},
     year      = {2013},
     month     = {December},
-    note      = {to appear}
 }
