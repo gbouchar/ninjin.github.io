@@ -1,10 +1,33 @@
-# YAML Configuration file for ninjin.github.com
+### YAML Configuration file for ninjin.github.io
 
-auto:       true
-markdown:   kramdown
+# Jekyll internals (mimics GitHub).
+lsi:        false
 permalink:  date
-pygments:   true
 safe:       true
-server:     true
 
-exclude: CNAME, LICENSE, README.md, bibtex_icon.svg, build, Gemfile, serve.sh
+# Site specifics.
+encoding:   utf-8
+timezone:   Asia/Tokyo
+
+markdown:   redcarpet
+redcarpet:
+    extensions: [
+        lax_spacing,
+        no_intra_emphasis,
+        smart,
+        space_after_headers,
+        superscript,
+        tables,
+    ]
+pygments:   true
+
+exclude: [
+    CNAME,
+    Gemfile,
+    LICENSE,
+    README.md,
+    _site,
+    bibtex_icon.svg,
+    build,
+    serve.sh,
+]

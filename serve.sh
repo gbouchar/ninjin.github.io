@@ -10,4 +10,4 @@
 #   bundle update
 
 # Note: I simply can't be bothered to remember this.
-bundle exec jekyll serve
+bundle exec jekyll serve --watch
