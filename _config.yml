@@ -25,9 +25,9 @@ exclude: [
     CNAME,
     Gemfile,
     LICENSE,
+    Makefile,
     README.md,
     _site,
-    img/bibtex_icon.svg,
     build,
-    serve.sh,
+    img/bibtex_icon.svg,
 ]
