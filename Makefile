@@ -16,7 +16,7 @@ imgopt:
 # Necessary tools to build the homepage.
 .PHONY: install
 install:
-	sudo apt-get install jpegoptim optipng
+	sudo apt-get install jpegoptim optipng ruby ruby-dev
 	sudo gem install bundler
 	bundle install
 
