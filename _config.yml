@@ -24,6 +24,7 @@ pygments:   true
 exclude: [
     CNAME,
     Gemfile,
+    Gemfile.lock,
     LICENSE,
     Makefile,
     README.md,
