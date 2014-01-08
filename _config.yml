@@ -7,4 +7,4 @@ pygments:   true
 safe:       true
 server:     true
 
-exclude: CNAME, LICENSE, README.md, bibtex_icon.svg
+exclude: CNAME, LICENSE, README.md, bibtex_icon.svg, build
