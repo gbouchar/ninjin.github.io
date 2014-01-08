@@ -1,10 +1,10 @@
 # YAML Configuration file for ninjin.github.com
 
 auto:       true
-markdown:   maruku
+markdown:   kramdown
 permalink:  date
 pygments:   true
 safe:       true
 server:     true
 
-exclude: CNAME, LICENSE, README.md, bibtex_icon.svg, build
+exclude: CNAME, LICENSE, README.md, bibtex_icon.svg, build, Gemfile, serve.sh
