@@ -39,10 +39,10 @@ All rights reserved. Licensed under a
 [ccby3.0]: https://creativecommons.org/licenses/by/3.0/
 [website_repo]: https://github.com/ninjin/ninjin.github.com
 [iscl]: http://www.opensource.org/licenses/ISC
-[bibtex_icon]: /bibtex_icon_small.png
+[bibtex_icon]: img/bibtex_icon_small.png
 [bibtex_wikipe]: http://commons.wikimedia.org/wiki/File:BibTeX_logo.svg
-[external_pdf_icon]: document-pdf-text.png
-[local_pdf_icon]: blue-document-pdf-text.png
-[slides_icon]: projection-screen-presentation.png
-[poster_icon]: application-blog.png
+[external_pdf_icon]: img/fugue/document-pdf-text.png
+[local_pdf_icon]: img/fugue/blue-document-pdf-text.png
+[slides_icon]: img/fugue/projection-screen-presentation.png
+[poster_icon]: img/fugue/application-blog.png
 [fugue]: http://p.yusukekamiyamane.com/

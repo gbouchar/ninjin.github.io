@@ -27,7 +27,7 @@ exclude: [
     LICENSE,
     README.md,
     _site,
-    bibtex_icon.svg,
+    img/bibtex_icon.svg,
     build,
     serve.sh,
 ]

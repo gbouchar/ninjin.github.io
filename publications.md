@@ -155,8 +155,8 @@ Unless explicitly stated otherwise these papers have undergone peer-review.
 * Han-Cheol Cho, Do-Gil Lee, Jung-Tae Lee, *Pontus Stenetorp*, Jun'ichi Tsujii
     and Hae-Chang Rim. **A Novel Word Segmentation Approach for Written
     Languages with Word Boundary Markers**. *In Proceedings of the ACL-IJCNLP
-    2009 Conference Short Papers*, pages 29–32, Suntec, Singapore, August
-    2009. Association for Computational Linguistics.
+    2009 Conference Short Papers*, pages 29–32, Suntec, Singapore,
+    August 2009. Association for Computational Linguistics.
     [![External PDF][external_pdf_icon]][cho2009novel]
     [![BibTeX][bibtex_icon]][cho2009novel_bib]
 
@@ -281,10 +281,10 @@ at an age of 19).
 [cho2009novel]: http://www.aclweb.org/anthology/P/P09/P09-2008.pdf
 [cho2009novel_bib]: http://www.aclweb.org/anthology/P/P09/P09-2008.bib
 
-[bibtex_icon]: bibtex_icon_small.png
-[external_pdf_icon]: document-pdf-text.png
-[local_pdf_icon]: blue-document-pdf-text.png
-[slides_icon]: projection-screen-presentation.png
-[poster_icon]: application-blog.png
+[bibtex_icon]: img/bibtex_icon_small.png
+[external_pdf_icon]: img/fugue/document-pdf-text.png
+[local_pdf_icon]: img/fugue/blue-document-pdf-text.png
+[slides_icon]: img/fugue/projection-screen-presentation.png
+[poster_icon]: img/fugue/application-blog.png
 
 [contact_page]: contact.html
