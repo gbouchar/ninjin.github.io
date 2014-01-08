@@ -1,3 +1,4 @@
-# ninjin.github.com #
+# ninjin.github.io #
 
-    ((-0.5)!)^{2}==pi
+Jekyll/Git-based Homepage served at
+[http://pontus.stenetorp.se](http://pontus.stenetorp.se).
