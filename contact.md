@@ -37,7 +37,7 @@ send your message as an e-mail attachment encrypted using [my public Pretty
 Good Privacy (PGP) key][pgp_key]. Also, make sure that you attach your own
 public key along with your message so that we can save a round-trip.
 
-[pgp_key]: pontus_stenetorp.pub.txt
+[pgp_key]: res/pontus_stenetorp.pub.txt
 
 ## University of Tokyo (UT) ##
 
