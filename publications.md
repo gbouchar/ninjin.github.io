@@ -229,7 +229,7 @@ at an age of 19).
     [![Local PDF][local_pdf_icon]][stenetorp2010automated_local]
     [![BibTeX][bibtex_icon]][stenetorp2010automated_bib]
 
-<!-- Publication and BibTeX links -->
+<!-- Publication and BibTeX links. -->
 [stenetorp2013transition_local]: stenetorp2013transition.pdf
 [stenetorp2013transition_bib]: stenetorp2013transition.bib.txt
 [stenetorp2013transition_poster]: stenetorp2013transition_poster.pdf
