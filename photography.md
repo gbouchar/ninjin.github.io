@@ -1,11 +1,9 @@
 ---
-layout: gallery
+layout: photography
 title:  Photography
 cmeta:  "Photographs from journeys and experiences, sights that I feel
         confident enough in to share with others."
 ---
-
-<!-- The title is inserted in the layout -->
 
 ## Art ##
 

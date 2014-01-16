@@ -1,0 +1,61 @@
+---
+# vim:set ft=html syntax=off ts=4 sw=4 sts=4 autoindent:
+layout: base
+---
+
+<h1>{{ page.title }}</h1>
+
+<!-- Count the number of photos. -->
+{% assign num_photos = 0 %}
+{% for post in site.posts %}
+    {% if post.blog == 'photo' %}
+            {% capture num_photos %}{{ num_photos | plus: 1 }}{% endcapture %}
+    {% endif %}
+{% endfor %}
+
+{% capture curr_id %}{{ num_photos | plus: 1 }}{% endcapture %}
+{% for post in site.posts %}
+    {% if post.blog == 'photo' %}
+
+        {% capture curr_id %}{{ curr_id | minus: 1 }}{% endcapture %}
+        {% capture frag_url %}{{ page.url }}/#{{ curr_id }}{% endcapture %}
+
+        <div class="photo">
+            <a name="{{ curr_id }}"></a>
+
+            {% capture descr %}{{ post.content | replace: "<p>", "" | replace: "</p>", "" }}{% endcapture %}
+
+            <img class="photo" src="/img/photo/{{ post.fname }}"
+                    alt="{{ descr | strip_html | strip_newlines }}"/>
+
+            <div class="photo_id">
+                <a href="#{{ curr_id }}">{{ curr_id }}.</a>
+            </div>
+
+            <div class="photo_caption">
+                {{ descr | replace: '<a', '<a target="_blank"' }}
+            </div>
+
+            <div class="photo_details">
+                <div>
+                    <!-- Date ordinal hack from: https://gist.github.com/rickydazla/5668017 -->
+                    {{ post.date | date: '~%dth of %B %Y' | replace: '~0', '' | replace: '~', '' | replace: '1th', '1st' | replace: '2th', '2nd' | replace: '3th', '3rd' | replace: '11st', '11th' | replace: '12nd', '12th' | replace: '13rd', '13th' }},
+                    <a href="https://www.google.com/maps/preview#!q={{ post.dms | uri_escape }}"
+                            target="_blank">
+                        {{ post.location }}
+                    </a>
+                </div>
+
+                <div class="photo_equipment">
+                    {{ post.equipment }}
+                </div>
+            </div>
+        </div>
+
+        {% if curr_id != '1' %}
+            <div class="photo_spacer"></div>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+
+{{ content }}

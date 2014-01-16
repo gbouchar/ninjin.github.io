@@ -138,10 +138,57 @@ img.favicon {
     max-height: 16px;
 }
 
-#human h1 {
-    font-family: 'Cabin Sketch', cursive;
+/* BEGIN: Photo gallery styling. */
+
+div.photo {
+    background-color:   black;
+    width:              800px;
+    padding-top:        7px;
+    padding-left:       7px;
+    padding-right:      7px;
+    padding-bottom:     5px;
+    margin-left:        auto;
+    margin-right:       auto;
+    color:              white;
 }
 
-#human h2 a:link, #human h2 a:visited {
-    color: black;
+img.photo {
+    max-width:      800px;
+    max-height:     600px;
+    display:        block;
+    margin-left:    auto;
+    margin-right:   auto;
+    padding-bottom: 5px;
 }
+
+div.photo_id {
+    float:              left;
+    padding-left:       0.25em;
+    padding-right:      0.5em;
+    font-weight:        bold;
+    font-size:          140%;
+}
+
+div.photo a {
+    color:  white;
+}
+
+div.photo_caption {
+    font-size:  90%;
+}
+
+div.photo_details {
+    font-size:  70%;
+}
+
+div.photo_equipment {
+    text-align:     right;
+    padding-right:  0.25em;
+    color:          #999999;
+}
+
+div.photo_spacer {
+    height: 2.25em;
+}
+
+/* END: Photo gallery styling. */
