@@ -8,14 +8,14 @@ layout: base
 <!-- Count the number of photos. -->
 {% assign num_photos = 0 %}
 {% for post in site.posts %}
-    {% if post.blog == 'photo' %}
+    {% if post.type == 'photo' %}
             {% capture num_photos %}{{ num_photos | plus: 1 }}{% endcapture %}
     {% endif %}
 {% endfor %}
 
 {% capture curr_id %}{{ num_photos | plus: 1 }}{% endcapture %}
 {% for post in site.posts %}
-    {% if post.blog == 'photo' %}
+    {% if post.type == 'photo' %}
 
         {% capture curr_id %}{{ curr_id | minus: 1 }}{% endcapture %}
         {% capture frag_url %}{{ page.url }}/#{{ curr_id }}{% endcapture %}
