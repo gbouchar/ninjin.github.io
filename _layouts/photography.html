@@ -40,8 +40,7 @@ layout: base
                 <div>
                     <!-- Date ordinal hack from: https://gist.github.com/rickydazla/5668017 -->
                     {{ post.date | date: '~%dth of %B %Y' | replace: '~0', '' | replace: '~', '' | replace: '1th', '1st' | replace: '2th', '2nd' | replace: '3th', '3rd' | replace: '11st', '11th' | replace: '12nd', '12th' | replace: '13rd', '13th' }},
-                    <a href="https://www.google.com/maps/preview#!q={{ post.dms | uri_escape }}"
-                            target="_blank">
+                    <a href="https://www.google.com/maps/preview#!q={{ post.dms | uri_escape }}">
                         {{ post.location }}
                     </a>
                 </div>
