@@ -7,5 +7,4 @@ fname:      "2008-09-06_-_Russian_Ridge_Open_Space_Preserve.jpg"
 location:   Russian Ridge Open Space Preserve, California, USA
 ---
 
-Three friends walk in a sea of golden grass under a clear blue afternoon sky
-in the San Francisco Peninsula hills.
+Three friends walk in a sea of golden grass under a clear blue afternoon sky.
