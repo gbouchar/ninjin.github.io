@@ -20,15 +20,11 @@ html {
 }
 
 body {
+    margin:         0px;
     background:     #ffffff;
-    /*border:         0;*/
     font-family:    'Istok Web', serif;
     font-size:      20px;
     color:          #333332;
-    margin:         0;
-    /*min-width:      750px;*/
-    /*padding:        0;*/
-    /*width:          100%;*/
 }
 
 /* Re-style links globally */
@@ -40,19 +36,22 @@ a {
 /* A green header and footer. */
 #hdr, #ftr {
     background-color:   #67E667;
-    font-size:          80%;
     padding:            5px 15px;
-    text-align:         center;
-    width:              100%;
 }
 
 #hdr {
-    border-bottom:      3px solid #008500;
+    border-bottom:  3px solid #008500;
 }
 
 #ftr {
-    border-top:         3px solid #008500;
-    clear:              both;
+    border-top:     3px solid #008500;
+    clear:          both;
+    font-size:      11pt;
+    text-align:     left;
+}
+
+#ftr a {
+    text-decoration:    none;
 }
 
 /* The center div, holding the sidebars and the content. */
@@ -75,6 +74,7 @@ a {
 #content, #top_content {
     float:          left;
     width:          850px;
+    height:         auto;
     margin-left:    5px;
     margin-right:   5px;
 }
@@ -87,32 +87,22 @@ a {
 #right, #top_right {
     float:  right;
     width:  125px;
-    /* Render even if the element is emptpy. */
+    /* Render even if the element is empty. */
     min-height: 1px;
 }
 
-#menu, #elsewhere, #ftr {
+#menu, #elsewhere {
     font-size:      13pt;
     font-weight:    bold;
     margin-bottom:  25px;
 }
 
-#menu a, #elsewhere a, #ftr a {
+#menu a, #elsewhere a {
     text-decoration:    none;
 }
 
-/* Why clear both? */
-#ftr {
-    background-color:   #67E667;
-    border-top:         3px solid #008500;
-    clear:              both;
-    font-size:          80%;
-    padding:            5px 15px;
-    text-align:         center;
-    width:              100%;
-}
-
 #portrait {
+    max-width:  250px;
     display:    inline;
     float:      right;
     margin:     10px;
