@@ -23,7 +23,7 @@ body {
     margin:         0px;
     background:     #ffffff;
     font-family:    'Istok Web', serif;
-    font-size:      20px;
+    font-size:      large;
     color:          #333332;
 }
 
@@ -48,7 +48,7 @@ a {
     height:         20px;
     border-top:     3px solid #008500;
     clear:          both;
-    font-size:      11pt;
+    font-size:      medium;
     text-align:     left;
 }
 
@@ -96,7 +96,7 @@ a {
 }
 
 #menu, #elsewhere {
-    font-size:      13pt;
+    font-size:      medium;
     font-weight:    bold;
     margin-bottom:  25px;
 }
@@ -113,6 +113,17 @@ a {
     margin:     10px;
 }
 
+a.fnote {
+    vertical-align:     super;
+    font-size:          small;
+    text-decoration:    none;
+}
+
+p.fnote {
+    font-size:  small;
+}
+
+
 #selected_pubs, #activities {
     float:      left;
     width:      405px;
@@ -124,7 +135,7 @@ a {
 }
 
 #activities {
-    margin-left:   5px;
+    margin-left:    5px;
 }
 
 #selected_pubs h3, #activities h3 {
@@ -174,7 +185,7 @@ div.photo_id {
     padding-left:   0.25em;
     padding-right:  0.5em;
     font-weight:    bold;
-    font-size:      140%;
+    font-size:      x-large;
 }
 
 div.photo a {
@@ -184,11 +195,11 @@ div.photo a {
 }
 
 div.photo_caption {
-    font-size:  75%;
+    font-size:  medium;
 }
 
 div.photo_details {
-    font-size:  50%;
+    font-size:  x-small;
 }
 
 div.photo_equipment {

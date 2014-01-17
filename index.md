@@ -8,7 +8,8 @@ cmeta:  "Homepage of your run-of-the-mill post-doctoral researcher
 <img id="portrait" src="img/pontus_stenetorp_eye-painting_-_2013-05-25.jpg"
     alt="Pontus Stenetorp covering his left eye with an eye painted on the back of his hand"/>
 
-My name is Pontus Stenetorp, I am a [Japan Society for the Promotion of
+My name is Pontus Stenetorp<a class="fnote" href="#fnote-name">*</a>,
+I am a [Japan Society for the Promotion of
 Science Postdoctoral Research Fellow][jsps] at
 the [University of Tokyo][todai] and find research on
 [Natural Language Processing][nlp] (NLP) and [Machine Learning][ml] to be
@@ -27,6 +28,16 @@ from the Faculty of Science at the University of Tokyo and
 a M.Sc.Eng. in 2010 from the [Royal Institute of Technology][kth] (KTH).
 During what little spare time I have left after work, I enjoy producing code
 for fun ("hacking"), biking, reading and [photography][photo].
+
+<p class="fnote" id="fnote-name">* Technically my name is Pontus Lars Erik
+Saito Stenetorp or
+<ruby>
+    <rb>西</rb><rp>(</rp><rt>サイ</rt><rp>)</rp>
+    <rb>東</rb><rp>(</rp><rt>トウ</rt><rp>)</rp>
+</ruby> ステネートルプ ポントス ラース エリック,
+but buy me a drink some time and I will tell you all about how
+I ended up with possibly the longest name in Japan and what it does to your
+average company customer database.</p>
 
 [brat]:     http://brat.nlplab.org/
 [contact]:  /contact.html
