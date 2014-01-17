@@ -21,102 +21,87 @@ html {
 
 body {
     background:     #ffffff;
-    border:         0;
+    /*border:         0;*/
     font-family:    'Istok Web', serif;
-    font-size:      16px;
+    font-size:      20px;
+    color:          #333332;
     margin:         0;
-    min-width:      750px;
-    padding:        0;
-    width:          100%;
+    /*min-width:      750px;*/
+    /*padding:        0;*/
+    /*width:          100%;*/
 }
 
 /* Re-style links globally */
-a:link, a:visited {
-    text-decoration:  none;
-} 
-a:hover, a:active {
-    text-decoration:  underline;
-} 
+a {
+    color:              #333332;
+    text-decoration:    underline;
+}
 
-#hdr {
+/* A green header and footer. */
+#hdr, #ftr {
     background-color:   #67E667;
-    border-bottom:      3px solid #008500;
     font-size:          80%;
     padding:            5px 15px;
     text-align:         center;
     width:              100%;
 }
 
-#middle_left {
-    background-color:   #ffffff;
+#hdr {
+    border-bottom:      3px solid #008500;
+}
+
+#ftr {
+    border-top:         3px solid #008500;
     clear:              both;
-    float:              left;
-    overflow:           hidden;
-    position:           relative;
-    width:              100%;
 }
 
-#middle_right {
-    background:     #ffffff;
-    float:          left;
-    margin-left:    -200px;
-    position:       relative;
-    right:          100%;
-    width:          200%;
+/* The center div, holding the sidebars and the content. */
+#ctr {
+    width:      1110px;
+    margin:     0px auto;
 }
 
-#middle {
-    background:     #ffffff;
-    float:          left;
-    left:           350px;
-    margin-left:    -50%;
-    position:       relative;
-    width:          100%;
+#middle, #top {
+    float: left;
 }
 
-#content_wrap {
+#left, #top_left {
     float:      left;
-    padding:    15px 0;
-    position:   relative;
-    right:      150px;
-    width:      50%;
+    width:      125px;
+    /* Render even if the element is emptpy. */
+    min-height: 1px;
 }
 
-#content {
-    left:       200%;
-    margin:     0 215px 0 165px;
-    overflow:   hidden;
-    position:   relative;
-}
-
-#left {
-    float:      left;
-    float:      right;
-    width:      120px;
-    position:   relative;
-    right:      15px;
-    padding:    15px 0;
-}
-
-#right {
+#content, #top_content {
     float:          left;
-    float:          right;
-    left:           50%;
-    margin-right:   45px;
-    padding:        15px 0;
-    position:       relative;
-    width:          170px;
+    width:          850px;
+    margin-left:    5px;
+    margin-right:   5px;
 }
 
-#menu {
-    font-size: 90%;
+#top_content h1 {
+    /* Don't move the title too far away from the content. */
+    margin-bottom:     0px;
 }
 
-#elsewhere {
-    font-size: 90%;
+#right, #top_right {
+    float:  right;
+    width:  125px;
+    /* Render even if the element is emptpy. */
+    min-height: 1px;
 }
 
+#menu, #elsewhere, #ftr {
+    font-size:      13pt;
+    font-weight:    bold;
+    margin-bottom:  25px;
+}
 
+#menu a, #elsewhere a, #ftr a {
+    text-decoration:    none;
+}
+
+/* Why clear both? */
 #ftr {
     background-color:   #67E667;
     border-top:         3px solid #008500;
@@ -127,10 +112,10 @@ a:hover, a:active {
     width:              100%;
 }
 
-#index_portrait {
-    display:            inline;
-    float:              right;
-    margin:             5px 10px;
+#portrait {
+    display:    inline;
+    float:      right;
+    margin:     10px;
 }
 
 img.favicon {
@@ -147,8 +132,7 @@ div.photo {
     padding-left:       7px;
     padding-right:      7px;
     padding-bottom:     5px;
-    margin-left:        auto;
-    margin-right:       auto;
+    /* TODO: Select a better, more grey colour? */
     color:              white;
 }
 
@@ -162,23 +146,25 @@ img.photo {
 }
 
 div.photo_id {
-    float:              left;
-    padding-left:       0.25em;
-    padding-right:      0.5em;
-    font-weight:        bold;
-    font-size:          140%;
+    float:          left;
+    padding-left:   0.25em;
+    padding-right:  0.5em;
+    font-weight:    bold;
+    font-size:      140%;
 }
 
 div.photo a {
-    color:  white;
+    /* TODO: Select a better, more grey colour? */
+    color:              white;
+    text-decoration:    none;
 }
 
 div.photo_caption {
-    font-size:  90%;
+    font-size:  75%;
 }
 
 div.photo_details {
-    font-size:  70%;
+    font-size:  50%;
 }
 
 div.photo_equipment {

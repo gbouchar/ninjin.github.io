@@ -5,8 +5,6 @@ cmeta:  "Links to mass media attention given to me or things I have been
         involved in."
 ---
 
-# {{ page.title }} #
-
 Sometimes I (rather undeservingly) receive some mass media attention.
 Below are some links.
 When the original article is in a non-English language I provide a Google

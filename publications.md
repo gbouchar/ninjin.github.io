@@ -5,8 +5,6 @@ cmeta:  "My publication list, constantly kept up-to-date with links to
         publications, posters, presentations and accurate BibTeX files."
 ---
 
-# {{ page.title }} #
-
 This page contains hopefully growing list of publications.
 Due to copyright reasons I am sometimes not allowed to host my publications on
 this site, I refer to these as external Portable Document Format (PDF) files

@@ -5,8 +5,6 @@ cmeta:  "How best to get in touch with me by e-mail, phone or visiting my work
         place."
 ---
 
-# {{ page.title }} #
-
 The preferred way to contact me is always by e-mail, unless your mail requires
 significant action on my part or I am exceedingly busy I will reply swiftly:
 

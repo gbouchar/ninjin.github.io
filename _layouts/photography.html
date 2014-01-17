@@ -3,7 +3,7 @@
 layout: base
 ---
 
-<h1>{{ page.title }}</h1>
+<p>
 
 <!-- Count the number of photos. -->
 {% assign num_photos = 0 %}
@@ -33,7 +33,7 @@ layout: base
             </div>
 
             <div class="photo_caption">
-                {{ descr | replace: '<a', '<a target="_blank"' }}
+                {{ descr }}
             </div>
 
             <div class="photo_details">
@@ -57,5 +57,7 @@ layout: base
         {% endif %}
     {% endif %}
 {% endfor %}
+
+</p>
 
 {{ content }}

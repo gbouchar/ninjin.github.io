@@ -4,8 +4,6 @@ title:  Copyright
 cmeta:  "Copyright and legal notes related to the content of the site."
 ---
 
-# {{ page.title }} #
-
 As much hassle as legal matters can be, here is what you need to know.
 
 ## Artistic Content  ##

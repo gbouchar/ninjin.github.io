@@ -5,8 +5,6 @@ cmeta:  "Links to repositories and homepages of some open-source software
         projects/tools that I haves been involved with."
 ---
 
-# {{ page.title }} #
-
 I like playing around with ideas and code, I don't refer to myself as a
 hacker, but I like to hack. Making myself smile, other people smile and maybe
 even alleviating the troubles of others. Hacking is, to do something I do
