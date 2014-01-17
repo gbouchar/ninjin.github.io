@@ -10,13 +10,13 @@ significant action on my part or I am exceedingly busy I will reply swiftly:
 
 <!-- If we don't have any JavaScript we use a simple form that really only can
     be translated into a single address (well, web-wise pretty much all e-mail
-    has an "at" and a "dot", in that order) -->
+    has an "at" and a "dot", in that order). -->
 <code id="obfuscated">
     pontus stenetorp se
 </code>
-<!-- But if we do have JavaScript we de-obfuscate the e-mail for the user -->
+<!-- But if we do have JavaScript we de-obfuscate the e-mail for the user. -->
 <script type="text/javascript">
-// This should be hard enough for most bots
+// This should be difficult enough for most bots.
 obfuscated.textContent = obfuscated.textContent
         .replace('s s', 's@s').replace('p s', 'p.s');
 </script>
@@ -39,7 +39,7 @@ public key along with your message so that we can save a round-trip.
 
 ## University of Tokyo (UT) ##
 
-My primary desk is at the [UT Hongo campus][gmap_hongo_campus], the
+I have a desk at the [UT Hongo campus][gmap_hongo_campus], the
 address and can be found below and here is a link to the [official UT hongo
 access homepage][ut_hongo_access].
 
@@ -51,16 +51,3 @@ access homepage][ut_hongo_access].
 
 [gmap_hongo_campus]: http://goo.gl/maps/2jGxp
 [ut_hongo_access]: http://www.u-tokyo.ac.jp/campusmap/map01_02_e.html
-
-## National Institute of Informatics (NII) ##
-
-I have a secondary desk at NII, here is the [official NII access
-homepage][nii_access].
-
-    Address:
-        Room 1318, National Institute of Informatics
-        2-1-2 Hitotsubashi
-        Chiyoda-ku, Tokyo
-        101-8430 Japan
-
-[nii_access]: http://www.nii.ac.jp/en/about/access/
