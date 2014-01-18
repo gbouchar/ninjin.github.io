@@ -18,10 +18,10 @@ layout: base
     {% if post.type == 'photo' %}
 
         {% capture curr_id %}{{ curr_id | minus: 1 }}{% endcapture %}
-        {% capture frag_url %}{{ page.url }}/#{{ curr_id }}{% endcapture %}
+        {% capture frag %}{{ post.date | date: '%Y-%m-%d' }}-{{ post.title | downcase }}{% endcapture %}
 
         <div class="photo">
-            <a name="{{ curr_id }}"></a>
+            <a name="{{ frag }}"></a>
 
             {% capture descr %}{{ post.content | replace: "<p>", "" | replace: "</p>", "" }}{% endcapture %}
 
@@ -29,7 +29,7 @@ layout: base
                     alt="{{ descr | strip_html | strip_newlines }}"/>
 
             <div class="photo_id">
-                <a href="#{{ curr_id }}">{{ curr_id }}.</a>
+                <a href="#{{ frag }}">{{ curr_id }}.</a>
             </div>
 
             <div class="photo_caption">
