@@ -4,6 +4,11 @@
     title       = {Size (and Domain) Matters: Evaluating Semantic Word
         Space Representations for Biomedical Text},
     year        = {2012},
+    month       = {September},
+    day         = {4},
     booktitle   = {Proceedings of the 5th International Symposium on
-        Semantic Mining in Biomedicine}
+        Semantic Mining in Biomedicine},
+    address     = {Z\"{u}rich, Switzerland},
+    pdf_url     = {http://www.zora.uzh.ch/64476/11/06_Size_and_Domain_matters.pdf},
+    slides_url  = {http://pontus.stenetorp.se/res/pdf/stenetorp2012size_pres.pdf},
 }

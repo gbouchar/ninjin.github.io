@@ -4,7 +4,14 @@
     title       = {Investigating Approaches
         to Semantic Category Disambiguation Using Large Lexical Resources
         and Approximate String Matching},
+    booktitle   = {Information Processing Society of Japan Special Interest
+        Groups Notes},
+    venue_type  = {Domestic},
+    address     = {Ishigaki, Japan},
     publisher   = {Information Processing Society of Japan (IPSJ)},
     year        = {2011},
-    booktitle   = {IPSJ SIG Notes},
+    month       = {November},
+    day         = {22},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/stenetorp2011investigating.pdf},
+    slides_url  = {http://pontus.stenetorp.se/res/html/stenetorp2011investigating/presentation.html},
 }

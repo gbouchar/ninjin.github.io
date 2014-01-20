@@ -1,0 +1,16 @@
+@InProceedings{stenetorp2011supporting,
+    author      = {Stenetorp, Pontus  and  Topi\'{c}, Goran
+        and  Pyysalo, Sampo and  Ohta, Tomoko  and  Kim, Jin-Dong
+        and  Tsujii, Jun'ichi},
+    title       = {BioNLP Shared Task 2011: Supporting Resources},
+    booktitle   = {Proceedings of BioNLP Shared Task 2011 Workshop},
+    year        = {2011},
+    month       = {June},
+    day         = {24},
+    address     = {Portland, Oregon, USA},
+    publisher   = {Association for Computational Linguistics},
+    pages       = {112--120},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/stenetorp2011supporting.pdf},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/stenetorp2011supporting_poster.pdf},
+}
+

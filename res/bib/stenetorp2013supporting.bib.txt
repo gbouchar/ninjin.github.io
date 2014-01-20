@@ -1,0 +1,16 @@
+@InProceedings{stenetorp2013supporting,
+    author      = {Stenetorp, Pontus  and  Golik, Wiktoria  and  Hamon,
+        Thierry  and  Comeau, Donald C.  and  Islamaj Do\u{g}an, Rezarta
+        and  Liu, Haibin and  Wilbur, W. John},
+    title       = {BioNLP Shared Task 2013: Supporting Resources},
+    booktitle   = {Proceedings of the BioNLP Shared Task 2013 Workshop},
+    address     = {Sofia, Bulgaria},
+    pages       = {99--103},
+    publisher   = {Association for Computational Linguistics},
+    year        = {2013},
+    month       = {August},
+    day         = {9},
+    pdf_url     = {http://aclweb.org/anthology/W/W13/W13-2013.pdf},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/stenetorp2013supporting_poster.pdf},
+}
+

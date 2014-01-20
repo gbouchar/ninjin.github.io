@@ -158,6 +158,14 @@ img.favicon {
     max-height: 16px;
 }
 
+/* BEGIN: Publication styling. */
+
+ul.pub_list li {
+    margin-bottom:  0.5em;
+}
+
+/* END: Publication styling. */
+
 /* BEGIN: Photo gallery styling. */
 
 div.photo {

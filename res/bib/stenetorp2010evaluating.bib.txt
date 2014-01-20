@@ -1,4 +1,4 @@
-@incollection {stenetorp2010evaluating,
+@incollection{stenetorp2010evaluating,
     author      = {Stenetorp, Pontus and Li, Jason Jingshi},
     booktitle   = {New Frontiers in Artificial Intelligence},
     editor      = {Nakakoji, Kumiyo and Murakami, Yohei and McCready, Eric},
@@ -9,5 +9,7 @@
     series      = {Lecture Notes in Computer Science},
     title       = {Evaluating Cases in Legal Disputes as Rival Theories},
     volume      = {6284},
-    year        = {2010}
+    year        = {2010},
+    month       = {March},
+    day         = {22},
 }

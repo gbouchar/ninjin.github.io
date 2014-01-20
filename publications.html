@@ -1,0 +1,74 @@
+---
+layout: base
+title:  Publications
+cmeta:  "My publication list, constantly kept up-to-date with links to
+        publications, posters, presentations and accurate BibTeX files."
+---
+
+<p>
+
+This page contains hopefully growing list of publications, another good place
+to look would be
+<a href="http://scholar.google.com/citations?user=5t495QgAAAAJ">
+    my author page on Google Scholar</a>.
+If you have any questions or find errors in my publications, feel free to
+<a href="/contact.html">drop me an e-mail</a>.
+
+<h2>
+    International
+</h2>
+
+{% capture curr_year %}START{% endcapture %}
+{% for post in site.posts %}
+    {% if post.type == 'publication' %}
+        {% if post.venue_type == 'international' %}
+            {% include pub_inner_loop.html %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h2>
+    Theses
+</h2>
+
+Theses are not peer-reviewed or presented to a wider audience.
+However, they can be of interest to a researcher since they provide a summary
+of current methods and can thus be an entry point to a scientific field.
+Preferably findings should be published in a peer-reviewed venue, but that is
+not always the case.
+Do note that you will not find a bachelor thesis below since the degree of
+Master of Science in Engineering (M.Sc.Eng.) covers both a master and a bachelor.
+
+{% capture curr_year %}START{% endcapture %}
+{% for post in site.posts %}
+    {% if post.type == 'publication' %}
+        {% if post.venue_type == 'thesis' %}
+            {% include pub_inner_loop.html %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</ul>
+
+<h2>
+    Domestic
+</h2>
+
+Domestic conferences, at least in the case of Japan, are seldom peer-reviewed,
+tends to limit themselves to the local research community
+and are thus treated differently than international publications.
+Since non-peer-reviewed papers does not count as a prior publication material
+from these papers may make it into papers submitted to international venues as
+a partial contribution if the domestic organisers allow for this.
+
+{% capture curr_year %}START{% endcapture %}
+{% for post in site.posts %}
+    {% if post.type == 'publication' %}
+        {% if post.venue_type == 'domestic' %}
+            {% include pub_inner_loop.html %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</ul>
+
+</p>

@@ -4,7 +4,11 @@
     author={Chaimongkol, Panot and Stenetorp, Pontus and Aizawa, Aizawa},
     booktitle={Proceedings of The 26th Annual Conference of the Japanese
         Society for Artificial Intelligence},
+    venue_type={Domestic},
+    address={Yamaguchi, Japan},
+    organization={Japanese Society for Artificial Intelligence},
     year={2012},
     month={June},
-    organization={Japanese Society for Artificial Intelligence}
+    day={12},
+    pdf_url={https://kaigi.org/jsai/webprogram/2012/pdf/710.pdf},
 }

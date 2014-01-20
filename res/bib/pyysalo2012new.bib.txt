@@ -1,0 +1,17 @@
+@InProceedings{pyysalo2012new,
+    author      = {Pyysalo, Sampo  and  Stenetorp, Pontus  and  Ohta, Tomoko
+        and  Kim, Jin-Dong  and  Ananiadou, Sophia},
+    title       = {New Resources and Perspectives
+        for Biomedical Event Extraction},
+    booktitle   = {{BioNLP}: Proceedings of the 2012 Workshop
+        on Biomedical Natural Language Processing},
+    year        = {2012},
+    month       = {June},
+    day         = {7},
+    address     = {Montr\'{e}al, Canada},
+    publisher   = {Association for Computational Linguistics},
+    pages       = {100--108},
+    pdf_url     = {http://aclweb.org/anthology/W/W12/W12-2412.pdf},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/pyysalo12new_poster.pdf},
+}
+

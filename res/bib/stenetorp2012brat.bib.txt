@@ -1,0 +1,17 @@
+@InProceedings{stenetorp2012brat,
+    author      = {Stenetorp, Pontus  and  Pyysalo, Sampo  and  Topi\'{c}, Goran
+        and  Ohta, Tomoko  and  Ananiadou, Sophia  and  Tsujii, Jun'ichi},
+    title       = {{brat}: a Web-based Tool for NLP-Assisted Text Annotation},
+    booktitle   = {Proceedings of the Demonstrations at the 13th Conference
+        of the European Chapter of the Association
+        for Computational Linguistics},
+    year        = {2012},
+    month       = {April},
+    day         = {26},
+    address     = {Avignon, France},
+    publisher   = {Association for Computational Linguistics},
+    pages       = {102--107},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/stenetorp2012brat.pdf},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/stenetorp2012brat_poster.pdf},
+}
+

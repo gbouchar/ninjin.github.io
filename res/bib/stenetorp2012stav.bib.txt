@@ -3,8 +3,12 @@
             and Ananiadou, Sophia and Tsujii, Jun'ichi},
     title       = {{stav}: text annotation visualiser},
     booktitle   = {Proceedings of NLP2012},
+    venue_type  = {Domestic},
     month       = {March},
     year        = {2012},
+    day         = {14},
     address     = {Hiroshima, Japan},
     publisher   = {Japanese Association for Natural Language Processing},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/stenetorp2012stav.pdf},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/stenetorp2012stav_poster.pdf},
 }

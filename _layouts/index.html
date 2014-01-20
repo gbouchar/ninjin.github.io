@@ -10,6 +10,24 @@ layout: base
             Selected Recent Publications
         </h3>
 
+        {% assign num_pubs = 0 %}
+        <ul>
+            {% for post in site.posts %}
+                {% if post.type == 'publication' %}
+                    {% if post.selected %}
+                        {% capture num_pubs %}{{ num_pubs | plus: 1 }}{% endcapture %}
+
+                        {% if num_pubs <= '3' %}
+                            <li>
+                                {% include pub_start.html %}
+                                {% include pub_end.html %}
+                            </li>
+                        {% endif %}
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+
         <div>
             For an exhaustive list of publications see my
             <a href="/publications.html">

@@ -4,6 +4,11 @@
     title       = {Almost Total Recall: Semantic Category Disambiguation
         Using Large Lexical Resources and Approximate String Matching},
     year        = {2011},
+    month       = {December},
+    day         = {15},
+    address     = {Singapore, Singapore},
     booktitle   = {Proceedings of the Fourth International Symposium
         on Languages in Biology and Medicine},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/stenetorp2011almost.pdf},
+    slides_url  = {http://pontus.stenetorp.se/res/html/stenetorp2011almost/presentation.html},
 }

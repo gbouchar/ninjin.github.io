@@ -27,8 +27,7 @@ image][bibtex_wikipe] which is in the public domain. Consider my icon version
 
 ## Fugue Icon Set ##
 
-Some icons (![External PDF Icon][external_pdf_icon],
-![Local PDF Icon][local_pdf_icon], ![Slides Icon][slides_icon]
+Some icons (![PDF Icon][pdf_icon], ![Slides Icon][slides_icon]
 and ![Poster Icon][poster_icon]) by [Yusuke Kamiyamane][fugue].
 All rights reserved. Licensed under a
 [Creative Commons Attribution 3.0 License][ccby3.0].
@@ -39,8 +38,7 @@ All rights reserved. Licensed under a
 [iscl]: http://www.opensource.org/licenses/ISC
 [bibtex_icon]: img/bibtex_icon_small.png
 [bibtex_wikipe]: http://commons.wikimedia.org/wiki/File:BibTeX_logo.svg
-[external_pdf_icon]: img/fugue/document-pdf-text.png
-[local_pdf_icon]: img/fugue/blue-document-pdf-text.png
+[pdf_icon]: img/fugue/document-pdf-text.png
 [slides_icon]: img/fugue/projection-screen-presentation.png
 [poster_icon]: img/fugue/application-blog.png
 [fugue]: http://p.yusukekamiyamane.com/

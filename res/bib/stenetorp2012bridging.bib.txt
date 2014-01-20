@@ -1,0 +1,17 @@
+@InProceedings{stenetorp2012bridging,
+    author      = {Stenetorp, Pontus  and  Pyysalo, Sampo  and  Ohta, Tomoko
+        and  Ananiadou, Sophia  and  Tsujii, Jun'ichi},
+    title       = {Bridging the Gap Between Scope-based and Event-based
+        Negation/Speculation Annotations: A Bridge Not Too Far},
+    booktitle   = {Proceedings of the Workshop on Extra-Propositional Aspects
+        of Meaning in Computational Linguistics},
+    pages       = {47--56},
+    year        = {2012},
+    month       = {July},
+    day         = {13},
+    address     = {Jeju, Republic of Korea},
+    publisher   = {Association for Computational Linguistics},
+    pdf_url     = {http://aclweb.org/anthology/W/W12/W12-3806.pdf},
+    slides_url  = {http://pontus.stenetorp.se/res/pdf/stenetorp2012bridging_pres.pdf},
+}
+

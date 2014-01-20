@@ -1,0 +1,11 @@
+@phdthesis{stenetorp2013applicability,
+    author={Stenetorp, Pontus},
+    title={On the Applicability and Representation of Lexical Prior Knowledge},
+    booktitle={Doctor of Philosophy (Ph.D.) Thesis},
+    school={University of Tokyo},
+    address={Tokyo, Japan},
+    venue_type={Thesis},
+    year={2013},
+    month={March},
+    day={25},
+}

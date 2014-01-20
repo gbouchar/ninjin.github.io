@@ -3,6 +3,10 @@
         and Ananiadou, Sophia and Aizawa, Akiko},
     title       = {Normalisation with the \textsc{brat} rapid annotation tool},
     year        = {2012},
+    month       = {September},
+    day         = {4},
+    address     = {Z\"{u}rich, Switzerland},
     booktitle   = {Proceedings of the 5th International Symposium on
-        Semantic Mining in Biomedicine}
+        Semantic Mining in Biomedicine},
+    pdf_url     = {http://www.zora.uzh.ch/64476/17/12_Normalisation_with_the_BRAT_rapid_annotation_tool.pdf},
 }
