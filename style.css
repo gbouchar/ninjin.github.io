@@ -69,10 +69,11 @@ a {
 }
 
 #left, #top_left {
-    float:      left;
-    width:      125px;
+    float:          left;
+    width:          120px;
+    margin-left:    5px;
     /* Render even if the element is emptpy. */
-    min-height: 1px;
+    min-height:     1px;
 }
 
 #content, #top_content {
@@ -89,10 +90,11 @@ a {
 }
 
 #right, #top_right {
-    float:  right;
-    width:  125px;
+    float:          right;
+    width:          120px;
+    margin-right:   5px;
     /* Render even if the element is empty. */
-    min-height: 1px;
+    min-height:     1px;
 }
 
 #menu, #elsewhere {
