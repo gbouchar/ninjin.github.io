@@ -36,6 +36,7 @@ a {
 /* A green header and footer. */
 #hdr, #ftr {
     background-color:   #67E667;
+    width:              100%;
     padding:            5px 15px;
 }
 
