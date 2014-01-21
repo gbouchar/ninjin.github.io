@@ -16,7 +16,7 @@ the [University of Tokyo][todai] and find research on
 fascinating.
 I am one of the creators of the widely-adopted annotation and visualisation tool
 [brat][brat], have carried out research on representations of lexical prior
-knowledge and recently published the first paper on applying
+knowledge and recently published the [first paper][trans] on applying
 vector composition
 ([Deep Learning][deep]) to [dependency parsing][dep].
 If you share any of my research interests, do have a look at
@@ -47,4 +47,5 @@ average company customer database.</p>
 [photo]:    /photography.html
 [pubs]:     /publications.html
 [todai]:    http://www.u-tokyo.ac.jp/index_e.html
+[trans]:    /res/pdf/stenetorp2013transition.pdf
 [tsuru]:    http://www.logos.t.u-tokyo.ac.jp/
