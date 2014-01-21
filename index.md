@@ -31,10 +31,7 @@ for fun ("hacking"), biking, reading and [photography][photo].
 
 <p class="fnote" id="fnote-name">* Technically my name is Pontus Lars Erik
 Saito Stenetorp or
-<ruby>
-    <rb>西</rb><rp>(</rp><rt>サイ</rt><rp>)</rp>
-    <rb>東</rb><rp>(</rp><rt>トウ</rt><rp>)</rp>
-</ruby> ステネートルプ ポントス ラース エリック,
+西東 ステネートルプ ポントス ラース エリック,
 but buy me a drink some time and I will tell you all about how
 I ended up with possibly the longest name in Japan and what it does to your
 average company customer database.</p>
