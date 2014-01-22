@@ -59,13 +59,16 @@ a {
 /* The center div, holding the sidebars and the content. */
 #ctr {
     width:      1110px;
-    /* calc may be experimental, but it looks fine without it too. */
-    height:     calc(100% - 51px);
     margin:     0px auto;
 }
 
 #middle, #top {
     float: left;
+}
+
+#middle {
+    /* calc may be experimental, but it looks fine without it too. */
+    min-height: calc(100% - 130px);
 }
 
 #left, #top_left {
