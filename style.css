@@ -37,16 +37,15 @@ a {
 #hdr, #ftr {
     background-color:   #67E667;
     width:              100%;
+    min-height:         5px;
     padding:            5px 15px;
 }
 
 #hdr {
-    height:         5px;
     border-bottom:  3px solid #008500;
 }
 
 #ftr {
-    height:         20px;
     border-top:     3px solid #008500;
     clear:          both;
     font-size:      medium;
