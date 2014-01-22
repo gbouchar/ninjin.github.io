@@ -1,4 +1,4 @@
-# This robots.txt is slightly advanced, but, oh well if you find that parsing
+# This robots.txt is slightly advanced, but, oh well, if you find that parsing
 # and obeying a robots.txt is the most complicated part of creating a crawler,
 # maybe you shouldn't make a crawler.
 
