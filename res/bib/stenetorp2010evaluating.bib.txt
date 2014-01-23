@@ -12,4 +12,5 @@
     year        = {2010},
     month       = {March},
     day         = {22},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/stenetorp2010evaluating.pdf},
 }

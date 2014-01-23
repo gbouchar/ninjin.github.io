@@ -6,6 +6,7 @@ title: 'Evaluating Cases in Legal Disputes as Rival Theories'
 authors: ['Pontus Stenetorp','Jason Jingshi Li']
 venue_type: international
 venue: 'New Frontiers in Artificial Intelligence'
+pdf: '/res/pdf/stenetorp2010evaluating.pdf'
 pages: "59-72"
 publisher: "Springer Berlin / Heidelberg"
 ---
