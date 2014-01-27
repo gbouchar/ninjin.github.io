@@ -53,7 +53,7 @@ layout: base
                     
                     {% if num_acts <= '5' %}
                         <tr>
-                            <td id="activity_date">
+                            <td class="activity_date">
                                 {% capture date %}{{ post.date | date: '%b ~%dth' }}{% endcapture %}
                                 {% if post.end %}
                                     {% capture date %}{{ date }}-{% endcapture %}
@@ -74,7 +74,7 @@ layout: base
                                 {{ date | replace: '~0', '' | replace: '~', '' | replace: '1th', '1st' | replace: '2th', '2nd' | replace: '3th', '3rd' | replace: '11st', '11th' | replace: '12nd', '12th' | replace: '13rd', '13th' }}
                             </td>
 
-                            <td id="activity_descr">
+                            <td class="activity_descr">
                                 {{ post.content | replace: "<p>", "" | replace: "</p>", "" }}
                             </td>
                         </tr>

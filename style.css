@@ -147,11 +147,11 @@ p.fnote {
     margin-bottom: 0px;
 }
 
-#activity_date, #activity_descr {
+td.activity_date, td.activity_descr {
     vertical-align: top;
 }
 
-#activity_date {
+td.activity_date {
     width:          9em;
     padding-left:   0px;
     text-align:     justify;
