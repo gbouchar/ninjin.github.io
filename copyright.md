@@ -35,7 +35,7 @@ All rights reserved. Licensed under a
 ## Icons for External Profiles ##
 
 Icons for external profiles (![Google Scholar Icon][scholar_icon],
-![GitHub Icon][github_icon], ![Google+ Icon][plus_icon],
+![GitHub Icon][github_icon], ![Google+ Icon][plus_icon] and
 ![LinkedIn Icon][linkedin_icon]) are used by permission from their respective
 owners.
 
