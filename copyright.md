@@ -32,6 +32,13 @@ and ![Poster Icon][poster_icon]) by [Yusuke Kamiyamane][fugue].
 All rights reserved. Licensed under a
 [Creative Commons Attribution 3.0 License][ccby3.0].
 
+## Icons for External Profiles ##
+
+Icons for external profiles (![Google Scholar Icon][scholar_icon],
+![GitHub Icon][github_icon], ![Google+ Icon][plus_icon],
+![LinkedIn Icon][linkedin_icon]) are used by permission from their respective
+owners.
+
 <!-- Links -->
 [ccby3.0]: https://creativecommons.org/licenses/by/3.0/
 [website_repo]: https://github.com/ninjin/ninjin.github.com
@@ -42,3 +49,7 @@ All rights reserved. Licensed under a
 [slides_icon]: img/fugue/projection-screen-presentation.png
 [poster_icon]: img/fugue/application-blog.png
 [fugue]: http://p.yusukekamiyamane.com/
+[scholar_icon]: img/elsewhere/scholar.png
+[github_icon]: img/elsewhere/github.png
+[plus_icon]: img/elsewhere/plus.png
+[linkedin_icon]: img/elsewhere/linkedin.png
