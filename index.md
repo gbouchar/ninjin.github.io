@@ -22,7 +22,7 @@ vector composition
 If you share any of my research interests, do have a look at
 my [list of publications][pubs] and if you have questions regarding
 my previous and/or current research, feel free to [contact me][contact].
-I am currently a member of the [Chikayama Tsuruoka Laboratory][tsuru]
+I am currently a member of the [Tsuruoka Laboratory][tsuru]
 at the Faculty of Engineering and received a Ph.D. in 2013
 from the Faculty of Science at the University of Tokyo and
 a M.Sc.Eng. in 2010 from the [Royal Institute of Technology][kth] (KTH).
