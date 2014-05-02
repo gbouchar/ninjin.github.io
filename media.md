@@ -30,15 +30,6 @@ additions by me][no_panic]).
 [dn_svensk_gt]: http://goo.gl/ZzigF
 [no_panic]: http://udon.stacken.kth.se/~goran/nopanic.en.html
 
-## Kungliga Tekniska högskolan (KTH) 2009-02-24 ##
-
-Strictly speaking, not mass media, but [an interview with me about my student
-life at KTH][kth_interview] ([Google Translate][kth_interview_gt]), what I had
-experienced and where I was going next.
-
-[kth_interview]: https://www.kth.se/utbildning/program/civilingenjor/datateknik/2.1250/pontus-via-kth-till-silicon-valley-och-tokyo-1.33640
-[kth_interview_gt]: http://goo.gl/W8um0
-
 ## Svenska Dagbladet 2008-06-15 ##
 
 [Swedish news paper article][svd_farska] ([Google Translate][svd_farska_gt])
