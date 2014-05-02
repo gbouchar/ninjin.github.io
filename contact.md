@@ -39,7 +39,7 @@ public key along with your message so that we can save a round-trip.
 
 ## University of Tokyo ##
 
-I have a desk at the University of Tokyo [Hongo campus][gmap_hongo_campus],
+I have a desk at the [University of Tokyo Hongo campus][gmap_hongo_campus],
 the address can be found below. If you need directions, here is a link to the
 [official University of Tokyo access homepage][ut_hongo_access].
 
