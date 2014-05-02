@@ -40,7 +40,7 @@ public key along with your message so that we can save a round-trip.
 ## University of Tokyo (UT) ##
 
 I have a desk at the [UT Hongo campus][gmap_hongo_campus], the
-address and can be found below and here is a link to the [official UT hongo
+address can be found below and here is a link to the [official UT hongo
 access homepage][ut_hongo_access].
 
     Address:
