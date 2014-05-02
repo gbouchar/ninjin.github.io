@@ -22,7 +22,7 @@ obfuscated.textContent = obfuscated.textContent
 </script>
 
 Contrary to a popular misconception about people in academia, most (and myself
-in particular) do not mind **you**, yes **you**, fellow student, researcher
+in particular) do not mind **you**, yes **you**, fellow researcher, student,
 and/or human, dropping a few lines asking for verification. Heck, even
 criticism **is** usually welcome.
 
