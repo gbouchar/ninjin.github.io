@@ -5,6 +5,9 @@ cmeta:  "How best to get in touch with me by e-mail, phone or visiting my work
         place."
 ---
 
+<img id="mii" src="img/wiiu_mii.png"
+    alt="Pontus Stenetorp's Mii avatar walking cheerfully"/>
+
 The preferred way to contact me is always by e-mail, unless your mail requires
 significant action on my part or I am exceedingly busy I will reply swiftly:
 

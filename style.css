@@ -157,6 +157,14 @@ td.activity_date {
     text-align:     justify;
 }
 
+/* Specifics for the contact page. */
+#mii {
+    max-width:  200px;
+    display:    inline;
+    float:      right;
+    margin:     10px;
+}
+
 /* TODO: MOVE UPWARDS! */
 img.favicon {
     max-width:  16px;
