@@ -52,4 +52,4 @@ owners.
 [scholar_icon]: img/elsewhere/scholar.png
 [github_icon]: img/elsewhere/github.png
 [plus_icon]: img/elsewhere/plus.png
-[linkedin_icon]: img/elsewhere/linkedin.png
+[linkedin_icon]: img/elsewhere/linked.png
