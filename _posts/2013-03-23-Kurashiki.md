@@ -7,4 +7,5 @@ fname:      2013-03-23_-_Kurashiki.jpg
 location:   Kurashiki, Japan
 ---
 
-Two girls waiting as the shop staff prepares a batch of pancake-roll sweets (調布巻).
+Two girls waiting as the shop staff prepares a batch
+of pancake-roll sweets (調布巻).
