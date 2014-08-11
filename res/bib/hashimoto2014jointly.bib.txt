@@ -1,0 +1,14 @@
+@InProceedings{hashimoto2014jointly,
+    author      = {Hashimoto, Kazuma and Stenetorp, Pontus and Miwa, Makoto
+                    and Tsuruoka, Yoshimasa},
+    title       = {Jointly Learning Word Representations and
+                    Composition Functions using Predicate-Argument Structures},
+    booktitle   = {Proceedings of the 2014 Conference on Empirical Methods
+                    in Natural Language Processing},
+    publisher   = {Association for Computational Linguistics},
+    address     = {Doha, Qatar},
+    year        = {2014},
+    month       = {October},
+    day         = {26},
+    note        = {to appear},
+}
