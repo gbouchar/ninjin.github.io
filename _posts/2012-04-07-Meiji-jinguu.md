@@ -7,7 +7,7 @@ fname:      2012-04-07_-_Meiji-jinguu.jpg
 location:   Meiji-jinguu, Tokyo, Japan
 ---
 
-Donated sacrificial [sake][sake] (日本酒) casks, stylistically decorated with
+Sacrificial [sake][sake] (日本酒) casks, stylistically decorated with
 the names of their respective donors.
 
 [sake]: http://en.wikipedia.org/wiki/Sake
