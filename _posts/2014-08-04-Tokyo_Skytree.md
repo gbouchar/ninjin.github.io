@@ -7,4 +7,4 @@ fname:      2014-08-04_-_Tokyo_Skytree.jpg
 location:   Tokyo Skytree, Tokyo, Japan
 ---
 
-A summer sunset over central Tokyo.
+A cloudy summer sunset over central Tokyo.
