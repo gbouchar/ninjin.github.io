@@ -18,7 +18,8 @@ layout: base
     {% if post.type == 'photo' %}
 
         {% capture curr_id %}{{ curr_id | minus: 1 }}{% endcapture %}
-        {% capture frag %}{{ post.date | date: '%Y-%m-%d' }}-{{ post.title | downcase }}{% endcapture %}
+        <!-- For some blasted reason "-" becomes " ", thus, replace. -->
+        {% capture frag %}{{ post.date | date: '%Y-%m-%d' }}-{{ post.title | replace:' ','-' | downcase }}{% endcapture %}
 
         <div class="photo">
             <a name="{{ frag }}"></a>
