@@ -2,7 +2,7 @@
 # Note: Generated file, do not edit directly.
 type: publication
 bib: '/res/bib/hashimoto2014jointly.bib.txt'
-title: 'Jointly Learning Word Representations and Composition Functions using Predicate-Argument Structures'
+title: 'Jointly Learning Word Representations and Composition Functions Using Predicate-Argument Structures'
 authors: ['Kazuma Hashimoto','Pontus Stenetorp','Makoto Miwa','Yoshimasa Tsuruoka']
 venue_type: international
 venue: 'Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing'

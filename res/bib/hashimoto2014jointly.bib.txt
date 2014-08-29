@@ -2,7 +2,7 @@
     author      = {Hashimoto, Kazuma and Stenetorp, Pontus and Miwa, Makoto
                     and Tsuruoka, Yoshimasa},
     title       = {Jointly Learning Word Representations and
-                    Composition Functions using Predicate-Argument Structures},
+                    Composition Functions Using Predicate-Argument Structures},
     booktitle   = {Proceedings of the 2014 Conference on Empirical Methods
                     in Natural Language Processing},
     publisher   = {Association for Computational Linguistics},
