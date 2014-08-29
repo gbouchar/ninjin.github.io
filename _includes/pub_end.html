@@ -27,3 +27,7 @@
 <a target="_blank"
     href="{{ post.bib }}"><img alt="BibTeX icon"
             src="/img/bibtex_icon_small.png"/></a>
+
+{% if post.to_appear %}
+    <em>(to appear)</em>
+{% endif %}

@@ -155,6 +155,12 @@ def main(args):
             if entry in SELECTED:
                 out.append('selected: true')
 
+            try:
+                if fields['note'].lower() == 'to appear':
+                    out.append('to_appear: true')
+            except KeyError:
+                pass
+
             out.append('---\n')
 
             with open(path_join(argp.posts_dir, post_fname), 'w') as post:
