@@ -7,6 +7,7 @@ authors: ['Kazuma Hashimoto','Pontus Stenetorp','Makoto Miwa','Yoshimasa Tsuruok
 venue_type: international
 venue: 'Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing'
 location: 'Doha, Qatar'
+pdf: '/res/pdf/hashimoto2014jointly.pdf'
 publisher: "Association for Computational Linguistics"
 to_appear: true
 ---

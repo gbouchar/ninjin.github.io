@@ -10,5 +10,6 @@
     year        = {2014},
     month       = {October},
     day         = {26},
+    pdf_url     = {http://pontus.stenetorp.se/res/pdf/hashimoto2014jointly.pdf},
     note        = {to appear},
 }
