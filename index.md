@@ -5,7 +5,7 @@ cmeta:  "Homepage of your run-of-the-mill post-doctoral researcher
         in Natural Language Processing (NLP)."
 ---
 
-<a href="img/brain_ct_scan_2014-04-05.png" style="cursor: default">
+<a href="img/brain_ct_scan_2014-04-05.jpg" style="cursor: default">
     <img id="portrait" src="img/pontus_stenetorp_eye-painting_-_2013-05-25.jpg"
         alt="Pontus Stenetorp covering his left eye with an eye painted on the back of his hand"/>
 </a>
