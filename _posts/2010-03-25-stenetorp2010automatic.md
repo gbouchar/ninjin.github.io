@@ -5,7 +5,7 @@ bib: '/res/bib/stenetorp2010automated.bib.txt'
 title: 'Automated Extraction of Swedish Neologisms using a Temporally Annotated Corpus'
 authors: ['Pontus Stenetorp']
 venue_type: 'thesis'
-venue: 'Master of Science in Engineering (M.Sc.Eng.) Thesis'
+venue: 'Master of Science in Engineering (MSc Eng) Thesis'
 location: 'Stockholm, Sweden'
 school: 'Royal Institute of Technology (KTH)'
 pdf: '/res/pdf/stenetorp2010automated.pdf'

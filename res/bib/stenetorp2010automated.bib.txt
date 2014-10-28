@@ -2,7 +2,7 @@
     author={Stenetorp, Pontus},
     title={Automated Extraction of Swedish Neologisms using a Temporally
             Annotated Corpus},
-    booktitle={Master of Science in Engineering (M.Sc.Eng.) Thesis},
+    booktitle={Master of Science in Engineering (MSc Eng) Thesis},
     school={Royal Institute of Technology (KTH)},
     address={Stockholm, Sweden},
     venue_type={Thesis},
