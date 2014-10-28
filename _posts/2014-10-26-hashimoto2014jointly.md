@@ -9,5 +9,4 @@ venue: 'Proceedings of the 2014 Conference on Empirical Methods in Natural Langu
 location: 'Doha, Qatar'
 pdf: '/res/pdf/hashimoto2014jointly.pdf'
 publisher: "Association for Computational Linguistics"
-to_appear: true
 ---
