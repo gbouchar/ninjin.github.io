@@ -10,8 +10,8 @@ serve:
 
 .PHONY: imgopt
 imgopt:
-	jpegoptim `find img -name '*.jpg'`
-	optipng `find img -name '*.png'`
+	find img -name '*.jpg' | xargs -r jpegoptim
+	find img -name '*.png' | xargs -r optipng
 
 .PHONY:	bibposts
 bibposts:
