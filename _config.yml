@@ -1,15 +1,15 @@
 ### YAML Configuration file for ninjin.github.io
 
 # Jekyll internals (mimics GitHub).
-lsi:        false
-permalink:  date
-safe:       true
+lsi:            false
+permalink:      date
+safe:           true
 
 # Site specifics.
-encoding:   utf-8
-timezone:   Asia/Tokyo
+encoding:       utf-8
+timezone:       Asia/Tokyo
 
-markdown:   redcarpet
+markdown:       redcarpet
 redcarpet:
     extensions: [
         lax_spacing,
@@ -19,7 +19,7 @@ redcarpet:
         superscript,
         tables,
     ]
-pygments:   true
+highlighter:    pygments
 
 exclude: [
     CNAME,
