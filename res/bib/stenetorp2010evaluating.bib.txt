@@ -3,7 +3,7 @@
     booktitle   = {New Frontiers in Artificial Intelligence},
     editor      = {Nakakoji, Kumiyo and Murakami, Yohei and McCready, Eric},
     isbn        = {978-3-642-14887-3},
-    note        = {10.1007/978-3-642-14888-0_6},
+    note        = {10.1007/978-3-642-14888-0\_6},
     pages       = {59--72},
     publisher   = {Springer Berlin / Heidelberg},
     series      = {Lecture Notes in Computer Science},
