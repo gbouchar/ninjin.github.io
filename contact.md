@@ -48,7 +48,7 @@ the address can be found below. If you need directions, here is a link to the
 
     Address:
         Room 102C1, Faculty of Engineering Building 2
-        The University of Tokyo, Hongo 7-3-1
+        University of Tokyo, Hongo 7-3-1
         Bunkyo-ku, Tokyo
         113-8656 Japan
 
