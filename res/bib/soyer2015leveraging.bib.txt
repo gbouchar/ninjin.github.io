@@ -1,0 +1,12 @@
+@inproceedings{soyer2015leveraging,
+    author      = {Soyer, Hubert and Stenetorp, Pontus and Aizawa, Akiko},
+    title       = {Leveraging Monolingual Data for
+        Crosslingual Compositional Word Representations},
+    year        = {2015},
+    month       = {May},
+    day         = {7},
+    booktitle   = {Proceedings of the 3rd International Conference on
+        Learning Representations},
+    address     = {San Diego, California, USA},
+    note        = {to appear}
+}

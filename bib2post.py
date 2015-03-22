@@ -21,6 +21,7 @@ from pybtex.database.input.bibtex import Parser as BibTeXParser
 
 ### Constants
 SELECTED = set((
+    'soyer2015leveraging',
     'stenetorp2013transition',
     'stenetorp2012brat',
     ))
