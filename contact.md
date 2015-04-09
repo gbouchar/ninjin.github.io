@@ -40,17 +40,16 @@ public key along with your message so that we can save a round-trip.
 
 [pgp_key]: res/pontus_stenetorp.pub.txt
 
-## University of Tokyo ##
+## University College London ##
 
-I have a desk at the [University of Tokyo Hongo campus][gmap_hongo_campus],
-the address can be found below. If you need directions, here is a link to the
-[official University of Tokyo access homepage][ut_hongo_access].
+I have a desk at the [One Euston Square][gmap] building at the University
+College London Bloomington Campus, the address can be found below.
 
     Address:
-        Room 102C1, Faculty of Engineering Building 2
-        University of Tokyo, Hongo 7-3-1
-        Bunkyo-ku, Tokyo
-        113-8656 Japan
+        Floor 5, One Euston Square
+        University College London, London Media Technology Campus (UCL/BBC)
+        40 Melton Street
+        London NW1 2FD
+        United Kingdom
 
-[gmap_hongo_campus]: http://goo.gl/maps/2jGxp
-[ut_hongo_access]: http://www.u-tokyo.ac.jp/campusmap/map01_02_e.html
+[gmap]: http://goo.gl/j7h3iY
