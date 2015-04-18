@@ -42,12 +42,13 @@ public key along with your message so that we can save a round-trip.
 
 ## University College London ##
 
-I have a desk at the [One Euston Square][gmap] building at the University
+I have a desk in the [One Euston Square][gmap] building at the University
 College London Bloomington Campus, the address can be found below.
 
     Address:
-        Floor 5, One Euston Square
-        University College London, London Media Technology Campus (UCL/BBC)
+        UCL/BBC London Media Technology Campus
+        5th Floor
+        One Euston Square
         40 Melton Street
         London NW1 2FD
         United Kingdom
