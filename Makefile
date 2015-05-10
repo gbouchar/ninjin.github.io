@@ -18,8 +18,8 @@ bibposts:
 	./bib2post.py _posts/ res/bib/*.bib.txt
 
 # Necessary tools to build the homepage.
-.PHONY: install
-install:
+.PHONY: deps
+deps:
 	sudo apt-get install jpegoptim libz-dev optipng ruby ruby-dev python3 \
 		python3-pip
 	sudo pip3 install pybtex
