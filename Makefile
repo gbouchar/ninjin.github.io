@@ -20,7 +20,8 @@ bibposts:
 # Necessary tools to build the homepage.
 .PHONY: install
 install:
-	sudo apt-get install jpegoptim optipng ruby ruby-dev python3 python3-pip
+	sudo apt-get install jpegoptim libz-dev optipng ruby ruby-dev python3 \
+		python3-pip
 	sudo pip3 install pybtex
 	sudo gem install bundler
 	bundle install
