@@ -4,9 +4,10 @@
         Crosslingual Compositional Word Representations},
     year        = {2015},
     month       = {May},
-    day         = {7},
+    day         = {9},
     booktitle   = {Proceedings of the 3rd International Conference on
         Learning Representations},
     address     = {San Diego, California, USA},
-    note        = {to appear}
+    pdf_url     = {http://arxiv.org/pdf/1412.6334},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/soyer2015leveraging_poster.pdf},
 }
