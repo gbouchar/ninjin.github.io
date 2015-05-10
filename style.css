@@ -19,6 +19,14 @@ html {
     overflow-y: scroll;
 }
 
+@font-face {
+    font-family:    'Istok Web';
+    font-style:     normal;
+    font-weight:    400;
+    src:            local('Istok Web Regular'), local('IstokWeb-Regular'),
+                        url(res/fonts/istok_web.woff) format('woff');
+}
+
 body {
     margin:         0px;
     background:     #ffffff;
