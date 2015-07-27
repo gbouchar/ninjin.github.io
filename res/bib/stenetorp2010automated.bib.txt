@@ -1,4 +1,4 @@
-@mastersthesis{stenetorp2010automatic,
+@mastersthesis{stenetorp2010automated,
     author={Stenetorp, Pontus},
     title={Automated Extraction of Swedish Neologisms using a Temporally
             Annotated Corpus},

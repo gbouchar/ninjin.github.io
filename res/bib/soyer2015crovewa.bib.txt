@@ -1,0 +1,17 @@
+@inproceedings{soyer2015crovewa,
+    author      = {Soyer, Hubert and Topi\'{c}, Goran and Stenetorp, Pontus
+        and Aizawa, Akiko},
+    title       = {{CroVeWA}: Crosslingual Vector-Based Writing Assistance},
+    year        = {2015},
+    month       = {June},
+    day         = {2},
+    booktitle   = {Proceedings of the 2015 Conference of the North American
+        Chapter of the Association for Computational Linguistics:
+        Demonstrations},
+    address     = {Denver, Colorado, USA},
+    publisher   = {Association for Computational Linguistics},
+    pages       = {91--95},
+    pdf_url     = {http://www.aclweb.org/anthology/N15-3019.pdf},
+    poster_url  = {http://pontus.stenetorp.se/res/pdf/soyer2015crovewa_poster.pdf}
+}
+
