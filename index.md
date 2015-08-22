@@ -2,7 +2,7 @@
 layout: index
 title:  Welcome!
 cmeta:  "Homepage of your run-of-the-mill post-doctoral researcher
-        in Natural Language Processing (NLP)."
+        in Natural Language Processing and Machine Learning."
 ---
 
 <a href="img/brain_ct_scan_2014-04-05.jpg" style="cursor: default">
