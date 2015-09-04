@@ -6,9 +6,18 @@ cmeta:  "Homepage of your run-of-the-mill post-doctoral researcher
 ---
 
 <a href="img/brain_ct_scan_2014-04-05.jpg" style="cursor: default">
-    <img id="portrait" src="img/pontus_stenetorp_eye-painting_-_2013-05-25.jpg"
+    <img id="portrait" src="img/pontus_stenetorp_eye-painting_-_2013-05-25_neural-style_-_2015-09-03.png"
         alt="Pontus Stenetorp covering his left eye with an eye painted on the back of his hand"/>
 </a>
+<script type="text/javascript">
+// Display the original image on mouse-over.
+portrait.addEventListener('mouseenter', function(event) {
+    portrait.src='img/pontus_stenetorp_eye-painting_-_2013-05-25.jpg'
+})
+portrait.addEventListener('mouseout', function(event) {
+    portrait.src='img/pontus_stenetorp_eye-painting_-_2013-05-25_neural-style_-_2015-09-03.png'
+})
+</script>
 
 My name is Pontus Stenetorp<a class="fnote" href="#fnote-name">*</a>,
 I am a Research Associate at [University College London][ucl] (UCL) and find
